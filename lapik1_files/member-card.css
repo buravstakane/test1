@@ -1,0 +1,90 @@
+.member-card {
+	background: url("/i/new/thread/shadow.png") no-repeat 0px 0px; margin: -142px 0px 0px -256px; padding: 27px; width: 512px; height: 284px; position: absolute; z-index: 999999;
+}
+.load-usercard {
+	background: url("/i/new/thread/shadow.png") no-repeat 0px 0px; margin: -142px 0px 0px -256px; padding: 27px; width: 511px; height: 283px; position: absolute; z-index: 999999;
+}
+.inner-load-usercard {
+	background: 0px 0px rgb(255, 255, 255); width: 511px; height: 283px;
+}
+.img-load-usercard {
+	left: 270px; top: 150px; width: 31px; height: 31px; position: absolute;
+}
+.w-member-card {
+	background: rgb(255, 255, 255); width: 512px; height: 285px; overflow: hidden; position: relative;
+}
+.w-member-card .close {
+	top: 10px; right: 10px; position: absolute; cursor: pointer;
+}
+.w-member-card .member-card-avatar {
+	margin: 16px 10px 0px 16px; width: 80px; height: 80px; float: left;
+}
+.w-member-card .member-card-name {
+	font: italic bold 16px/14px Georgia; padding: 36px 0px 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .member-card-description {
+	font: 11px/14px Arial; padding: 5px 0px 0px; width: 70%; color: rgb(128, 128, 128); font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .member-card-link {
+	margin: 0px 10px 0px 0px; top: 40px; text-align: right; right: 5px; position: absolute;
+}
+.w-member-card .member-card-link * {
+	clear: right; display: block;
+}
+.w-member-card .member-card-goToProfile {
+	font: 9px/normal Arial; color: rgb(8, 51, 95); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .member-card-personalBlogSubscribe {
+	font: 9px/normal Arial; text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .member-card-personalBlogSubscribeBlue {
+	color: rgb(8, 51, 95);
+}
+.w-member-card .member-card-personalBlogSubscribeBlack {
+	color: rgb(0, 0, 0); white-space: nowrap;
+}
+.w-member-card .member-card-goToSendMassage {
+	font: 9px/normal Arial; color: rgb(8, 51, 95); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .tabs-member-card {
+	margin: 16px 0px 0px -1px; height: 28px; overflow: hidden; position: relative;
+}
+.w-member-card .tabs-member-card .item-member-card {
+	background: url("/i/new/bg-item-member-card.gif") repeat-x 0px 0px; font: 11px/normal Arial; padding: 6px 15px 0px; border: 1px solid rgb(230, 230, 230); border-image: none; height: 19px; color: rgb(8, 51, 95); float: left; position: relative; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .tabs-member-card .active {
+	background: rgb(248, 248, 248); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(199, 199, 199) rgb(199, 199, 199) currentColor; height: 22px; color: rgb(0, 0, 0);
+}
+.w-member-card .tabs {
+	background: rgb(248, 248, 248); margin: -1px 0px 0px; width: 100%; height: 150px; border-top-color: rgb(199, 199, 199); border-top-width: 1px; border-top-style: solid;
+}
+.w-member-card .tab {
+	background: rgb(248, 248, 248); padding: 5px 16px 18px; display: none;
+}
+.w-member-card .active-tab {
+	display: block;
+}
+.w-member-card .tab .comment-item {
+	background: url("/i/new/thread/ic-comment.gif") no-repeat 0px 3px; padding: 0px 0px 5px 17px; font-family: Arial, sans-serif; font-size: 12px;
+}
+.w-member-card .tab .comment-item .comment-link {
+	font: 12px/14px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .tab .comment-item .comment-link-description {
+	font: 10px/14px Arial; color: rgb(137, 137, 137); font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .tab .comment-item .comment-link-description a {
+	font: 10px/14px Arial; color: rgb(137, 137, 137); font-size-adjust: none; font-stretch: normal;
+}
+.w-member-card .tab .comment-item .comment-link-description a.userInSubject {
+	font: italic 10px/14px Arial !important; color: rgb(137, 137, 137) !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.w-member-card .no-comment p {
+	font: 15px/normal Georgia !important; margin: 0px; padding: 40px 0px 0px; text-align: center; color: rgb(51, 51, 51) !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.w-member-card .no-comment p span.userInSubject {
+	font: italic 15px/normal Georgia !important; color: rgb(51, 51, 51); font-size-adjust: none !important; font-stretch: normal !important;
+}
+.w-member-card .tabs-member-card li.no-comment {
+	color: rgb(192, 192, 192) !important;
+}

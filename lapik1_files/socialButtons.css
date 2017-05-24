@@ -1,0 +1,360 @@
+@media all and (min-width:770px)
+{
+article.entryBody.entryBody-magazine ul.social-likes {
+	margin-top: 28px;
+}
+}
+.repost-thread .repost-thread-item {
+	margin: 0px 0px 0px 5px; float: left; display: block; list-style-image: none;
+}
+.repost-thread .repost-thread-item .link {
+	font: 10px/17px Arial; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+body .fb_iframe_widget_lift {
+	z-index: 650;
+}
+article .social-likes {
+	margin: 28px 0px 10px; padding: 0px;
+}
+.everyday-culture ul.social-likes li {
+	padding-left: 0px; margin-right: 15px; float: left; list-style-image: none;
+}
+.entryBody ul.social-likes li {
+	padding-left: 0px; margin-right: 15px; float: left; list-style-image: none;
+}
+.stuff ul.social-likes li {
+	padding-left: 0px; margin-right: 15px; float: left; list-style-image: none;
+}
+.gosdep_top ul.social-likes li {
+	padding-left: 0px; margin-right: 15px; float: left; list-style-image: none;
+}
+.entryBody .icon {
+	width: 24px; height: 24px; font-size: 1px; display: block; position: relative; cursor: pointer; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+.vk-item a {
+	width: 24px; height: 24px; font-size: 1px; display: block; position: relative; cursor: pointer; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+.gplus {
+	width: 24px; height: 24px; font-size: 1px; display: block; position: relative; cursor: pointer; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+ul.social-likes li .icon {
+	width: 24px; height: 24px; font-size: 1px; display: block; position: relative; cursor: pointer; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+span.social-likes__button {
+	width: 24px; height: 24px; font-size: 1px; display: block; position: relative; cursor: pointer; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+.social-likes__button_facebookQuote:hover {
+	background-position: 0px -24px;
+}
+.social-likes__button_twitterQuote {
+	background-position: -72px 0px;
+}
+.social-likes__button_twitterQuote:hover {
+	background-position: -72px -24px;
+}
+.social-likes__button_vkontakteQuote {
+	background-position: -48px 0px;
+}
+.social-likes__button_vkontakteQuote:hover {
+	background-position: -48px -24px;
+}
+.vk-item a {
+	background-position: -48px 0px;
+}
+.social-likes__button_vkontakte {
+	background-position: -48px 0px;
+}
+.vk-item a:hover {
+	background-position: -48px -24px;
+}
+.social-likes__button_vkontakte:hover {
+	background-position: -48px -24px;
+}
+.vk-item a span {
+	display: none;
+}
+.gplus {
+	background-position: -24px 0px;
+}
+.social-likes__button_plusone {
+	background-position: -24px 0px;
+}
+.gplus:hover {
+	background-position: -24px -24px;
+}
+.social-likes__button_plusone:hover {
+	background-position: -24px -24px;
+}
+.twitter {
+	background-position: -72px 0px;
+}
+.social-likes__button_twitter {
+	background-position: -72px 0px;
+}
+.odnoklassniki {
+	background-position: 0px -120px;
+}
+.social-likes__button_odnoklassniki {
+	background-position: 0px -120px;
+}
+.odnoklassniki:hover {
+	background-position: 0px -144px;
+}
+.social-likes__button_odnoklassniki:hover {
+	background-position: 0px -144px;
+}
+.twitter:hover {
+	background-position: -72px -24px;
+}
+.social-likes__button_twitter:hover {
+	background-position: -72px -24px;
+}
+.lj {
+	background-position: -96px 0px;
+}
+.social-likes__button_livejournal {
+	background-position: -96px 0px;
+}
+.lj:hover {
+	background-position: -96px -24px;
+}
+.social-likes__button_livejournal:hover {
+	background-position: -96px -24px;
+}
+.fb {
+	background-position: 0px -24px;
+}
+.social-likes__button_facebook:hover {
+	background-position: 0px -24px;
+}
+.social-likes__button_surfingbird {
+	background-position: 0px -96px;
+}
+.social-likes__button_surfingbird:hover {
+	background-position: -24px -96px;
+}
+.social-likes__button_whatsapp {
+	background-position: -49px -144px;
+}
+.social-likes__button_viber {
+	background-position: 0px -168px;
+}
+.entryBody .content ul.social-likes-color .social-likes__button_vkontakte {
+	background-position: -74px -121px;
+}
+.entryBody .content ul.social-likes-color .social-likes__button_facebook {
+	background-position: -50px -121px;
+}
+.entryBody .content ul.social-likes-color .social-likes__button_twitter {
+	background-position: -98px -121px;
+}
+.entryBody .content ul.social-likes-color li.social-likes__widget {
+	padding: 0px; margin-right: 6px; float: none; display: inline-block;
+}
+.columnistsSocial .social-likes__counter_odnoklassniki {
+	display: none;
+}
+.socNetTop .social-likes__counter_odnoklassniki {
+	display: none;
+}
+.repost-thread .social-likes__counter_odnoklassniki {
+	display: none;
+}
+.columnistsSocial .social-likes__counter_plusone {
+	display: none;
+}
+.columnistsSocial .social-likes__counter_twitter {
+	display: none;
+}
+.socNetTop .social-likes__counter_plusone {
+	display: none;
+}
+.socNetTop .social-likes__counter_twitter {
+	display: none;
+}
+.repost-thread .social-likes__counter_plusone {
+	display: none;
+}
+.repost-thread .social-likes__counter_twitter {
+	display: none;
+}
+span.social-likes__button {
+	float: left; display: block;
+}
+.social-likes__counter {
+	border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(204, 204, 204) currentColor; padding: 5px 7px 5px 6px; border-image: none; line-height: 12px; font-family: Arial, sans-serif; font-size: 12px; margin-left: 6px; float: left; display: block; border-top-right-radius: 3px; border-bottom-right-radius: 3px;
+}
+.social-likes__counter_empty {
+	display: none;
+}
+.social-likes__counter::before {
+	background-position: -120px 0px; width: 6px; height: 24px; margin-top: -6px; margin-left: -12px; position: absolute; content: ""; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+.social-likes__counter::before {
+	background-position: -120px 0px; width: 6px; height: 24px; margin-top: -6px; margin-left: -12px; position: absolute; content: ""; background-image: url("/i/socicons.png"); background-repeat: no-repeat;
+}
+body .socNetTop {
+	top: 10px; right: 32px; margin-bottom: 0px; position: absolute;
+}
+.columnistsSocial {
+	top: 10px; right: 32px; margin-bottom: 0px; position: absolute;
+}
+.entryBody .columnistsSocial {
+	top: 18px;
+}
+.blog_428 .columnistsSocial {
+	top: auto; margin-top: -19px;
+}
+.socNetTop ul.social-likes li {
+	margin-right: 7px;
+}
+.columnistsSocial ul.social-likes li {
+	margin-right: 7px;
+}
+.repost-thread ul.social-likes li {
+	margin-right: 7px;
+}
+.repost-thread ul.social-likes li.social-likes__widget_surfingbird {
+	margin-right: 0px;
+}
+.gosdep_top ul.social-likes li.social-likes__widget_surfingbird {
+	margin-right: 0px;
+}
+.photogallery span.social-likes__counter {
+	color: rgb(255, 255, 255);
+}
+.social-likes.social-likes-hide-counters .social-likes__counter {
+	display: none;
+}
+.social-likes__counter_twitter {
+	
+}
+.snobLike {
+	margin-top: 15px; margin-bottom: 10px; float: right; position: relative; z-index: 99;
+}
+.snobLike .snob-like-counter {
+	margin: 13px 0px 0px 16px; color: rgb(39, 70, 113); text-decoration: underline; cursor: pointer;
+}
+.snobLike .snob-like-title {
+	margin: 22px 10px 0px 0px; color: rgb(102, 102, 102) !important; text-transform: uppercase; line-height: 9px; font-family: Arial, serif; font-size: 9px; text-decoration: none; float: left; cursor: pointer;
+}
+.snobLike .snob-like-title:hover {
+	color: rgb(102, 102, 102) !important; text-decoration: none !important;
+}
+.snobLike .snob-like-icon {
+	background: url("/i/socicons.png") no-repeat -172px -51px; width: 52px; height: 52px; float: left; display: block; cursor: pointer;
+}
+.snobLike .h-Snoblike__supporters {
+	background: rgb(241, 241, 241); padding: 15px; border-radius: 3px; border: 1px solid rgb(204, 204, 204); border-image: none; right: -100px; bottom: 60px; display: none; position: absolute;
+}
+.snobLike .h-Snoblike__supporters::after {
+	border-width: 7px 7px 0px; border-style: solid; border-color: rgb(241, 241, 241) transparent transparent; left: 50%; width: 0px; height: 0px; bottom: -7px; margin-left: -3px; display: block; position: absolute; content: "";
+}
+.snobLike .h-Snoblike__supporters::before {
+	border-width: 8px 8px 0px; border-style: solid; border-color: rgb(204, 204, 204) transparent transparent; left: 50%; width: 0px; height: 0px; bottom: -8px; margin-left: -4px; display: block; position: absolute; content: "";
+}
+.snobLike .snobLike_pseudoSupport {
+	width: 125px; height: 78px; margin-right: 75px; float: right; display: none; cursor: pointer;
+}
+.snobLike ul a {
+	list-style: none; padding: 0px; color: rgb(0, 0, 0); line-height: 17px; font-family: Georgia, serif; font-size: 12px; font-style: italic; display: block; -ms-word-wrap: break-word;
+}
+.snobLike i.line {
+	background: url("/i/entry/snob-likes-border.png") no-repeat right top; width: 195px; height: 1px; display: none;
+}
+.snobLike i.line-up {
+	padding-bottom: 0px; float: right;
+}
+.snob-like-title:hover + .snob-like-icon {
+	background-position: -172px -51px;
+}
+.snob-like-icon:hover {
+	background-position: -172px -51px;
+}
+body .i-like .snob-like-icon {
+	background-position: -172px -103px !important;
+}
+body .i-like .snob-like-icon:hover {
+	background-position: -172px -103px !important;
+}
+.entryBody ul.social-likes {
+	float: left;
+}
+.blog-likes .social-likes {
+	float: left;
+}
+.magazine-likes .social-likes {
+	float: left;
+}
+.blog-likes {
+	margin: 10px 0px 25px;
+}
+body .snob-like-counter {
+	margin: 13px 0px 0px 16px; color: rgb(102, 102, 102);
+}
+.stuff .snobLike .h-Snoblike__supporters {
+	right: -30px;
+}
+body .snobLike ul {
+	margin: 0px; padding: 0px; width: 195px; line-height: 1em; position: relative;
+}
+.stuff .snobLike i.line-down {
+	display: none;
+}
+.snobLike__points {
+	display: none; cursor: pointer;
+}
+.snobLike__more {
+	background: url("/i/entry/snob-like-more.png") no-repeat 80px 0px; margin: 12px 0px 0px; width: 90px; color: rgb(39, 70, 113); line-height: 10px; font-family: Arial, sans-serif; font-size: 9px; display: block; cursor: pointer;
+}
+.snobLike__supported {
+	background: url("/i/entry/snob-like-more.png") no-repeat 80px 0px; margin: 12px 0px 0px; width: 90px; color: rgb(39, 70, 113); line-height: 10px; font-family: Arial, sans-serif; font-size: 9px; display: block; cursor: pointer;
+}
+.snobLike__more {
+	display: none;
+}
+.snobLike__supported {
+	background: none; top: 54px; color: rgb(102, 102, 102); display: none; position: absolute;
+}
+.fbComment {
+	margin-bottom: 25px;
+}
+.fbComment .fbIcon {
+	background: url("/i/socicons.png") no-repeat -126px 0px; width: 50px; height: 50px; margin-right: 12px; float: left;
+}
+body .fbComment .fbText {
+	color: rgb(51, 51, 51); font-family: Arial, sans-serif; float: left;
+}
+.fbComment p.discuss {
+	margin: 0px 0px 5px; color: rgb(255, 193, 12); font-size: 12px; font-weight: bold;
+}
+.fbComment p.textFbComment {
+	margin: 0px; line-height: 16px; font-size: 12px;
+}
+.fbComment .textFbComment a {
+	color: rgb(51, 51, 51); font-weight: normal;
+}
+.fbComment .textFbComment a:hover {
+	color: rgb(51, 51, 51) !important;
+}
+.fbComment .textFbComment a span.arrow {
+	background: url("/i/socicons.png") no-repeat -176px 0px; left: 3px; top: 1px; width: 15px; height: 9px; display: inline-block; position: relative;
+}
+.fbComment .textFbComment a:hover span.arrow {
+	background: url("/i/socicons.png") no-repeat -176px -9px;
+}
+.blog .columnistsSocial {
+	top: 35px; height: 23px; right: 39px; position: absolute;
+}
+.columnistsSocialBottom {
+	position: relative;
+}
+.columnistsSocialBottom .repost-thread {
+	left: 470px; top: 9px;
+}
+.snob-show .columnistsSocialBottom {
+	margin: 30px 0px; top: auto; width: auto; right: auto; float: none; position: static;
+}
+body.snob-show.blog_7 .columnistsSocialBottom {
+	display: none;
+}

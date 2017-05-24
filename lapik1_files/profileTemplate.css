@@ -1,0 +1,612 @@
+.times {
+	
+}
+.georgia {
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+.grey-btn {
+	font: 12px/14px "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 10px 12px; border-radius: 3px; color: rgb(0, 0, 0); display: inline-block; font-size-adjust: none; font-stretch: normal; box-shadow: 0px 4px 4px -2px #c2c3c3; background-image: linear-gradient(rgb(239, 240, 240), rgb(226, 228, 229)); background-repeat: repeat-x; background-color: rgb(226, 228, 229);
+}
+.grey-btn + .grey-btn {
+	margin-left: 14px;
+}
+.grey-btn.active {
+	color: rgb(99, 99, 99); box-shadow: inset 1px 4px 9px -6px #000000; background-image: linear-gradient(rgb(170, 172, 174), rgb(207, 208, 210)); background-repeat: repeat-x; background-color: rgb(207, 208, 210); -webkit-box-shadow: inset 1px 4px 9px -6px #000000;
+}
+:root .grey-btn.active {
+	border-top-color: rgb(158, 159, 161); border-top-width: 1px; border-top-style: solid;
+}
+.btn {
+	border-radius: 3px; display: inline-block; cursor: pointer;
+}
+.btn-blue {
+	font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 16px 10px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal; box-shadow: 0px 4px 4px -2px #c2c3c3; background-image: linear-gradient(rgb(0, 88, 141), rgb(0, 70, 112)); background-repeat: repeat-x; background-color: rgb(0, 70, 112);
+}
+.btn-comment {
+	background: rgb(7, 52, 94); font: 0.85em "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 0.7em; color: rgb(255, 255, 255); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.popup-close-m {
+	background: rgb(255, 255, 255); border-radius: 50%; top: 1.6em; width: 1.25em; height: 1.25em; text-align: center; right: 1em; color: rgb(215, 215, 215); line-height: 1.25; font-size: 0.75em; font-weight: bold;
+}
+.input-text-dft {
+	padding: 0.58em 1.83em; border: 1px solid rgb(204, 204, 204); border-image: none; color: rgb(0, 0, 0); line-height: 1.417; font-size: 1.08em;
+}
+.btn-flat {
+	padding: 0.58em 1.83em; border: 0px currentColor; border-image: none; color: rgb(255, 255, 255); line-height: 1.417; font-size: 1.08em; cursor: pointer; background-color: rgb(58, 58, 58);
+}
+.btn-flat-search {
+	color: rgb(0, 0, 0); background-color: rgb(232, 232, 232);
+}
+.btn-flat-search.active {
+	color: rgb(255, 255, 255); background-color: rgb(58, 58, 58);
+}
+.custom-checkbox {
+	width: 22px; height: 22px; position: relative;
+}
+.custom-checkbox input[type='checkbox'] {
+	width: 20px; height: 20px; position: absolute; z-index: 2; opacity: 0;
+}
+.custom-checkbox .toggle {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 20px; height: 20px; position: absolute;
+}
+.custom-checkbox .toggle::after {
+	background: url("/i/search/tick.png") no-repeat center 6px; transition:opacity 200ms ease-in; width: 22px; height: 22px; display: block; position: absolute; content: ""; opacity: 0;
+}
+.custom-checkbox input[type='checkbox']:checked + .toggle::after {
+	opacity: 1;
+}
+.c990 {
+	margin: 0px auto; width: 990px; position: relative;
+}
+.abs00 {
+	left: 0px; top: 0px; position: absolute;
+}
+.profileIcon {
+	font-size: 1px; display: block; position: relative; background-image: url("/i/new/person/ic.png"); background-repeat: no-repeat;
+}
+.hr-dotted {
+	background: url("/i/new/magazine/dotted.gif") repeat-x 0px 100%; border: 0px currentColor; border-image: none;
+}
+.h-layoutNarrow {
+	background: none;
+}
+.h-columnWrapper {
+	margin: 20px auto 0px; width: 990px; position: relative;
+}
+.three-column aside.notificationColumn {
+	width: 195px; margin-right: 15px; float: left;
+}
+.three-column div.profileContent {
+	width: 520px; margin-right: 20px; float: left;
+}
+.three-column aside.bannerColumn {
+	width: 240px; float: left;
+}
+.two-column .profileContent {
+	width: 735px; margin-right: 15px; float: left;
+}
+.two-column > aside {
+	width: 240px; float: left;
+}
+.callSupportWindow {
+	background: url("/i/bg-call-support-w.png") no-repeat 50% 50%; width: 437px; height: 235px; color: rgb(204, 204, 204); position: absolute; z-index: 10001;
+}
+.callSupportWindow .closeBtn {
+	top: 9px; right: 11px; position: absolute;
+}
+.callSupportWindow .content {
+	margin: 14px 27px;
+}
+.callSupportWindow .content p {
+	margin: 0px 0px 14px; color: rgb(204, 204, 204); line-height: 18px; font-size: 12px;
+}
+.callSupportWindow .content dt {
+	margin: 0px 0px 14px; color: rgb(204, 204, 204); line-height: 18px; font-size: 12px;
+}
+.callSupportWindow .content textarea {
+	padding: 8px; border: 1px solid rgb(84, 84, 84); border-image: none; width: 365px; height: 84px; color: rgb(255, 255, 255); line-height: 12px; overflow: hidden; font-size: 11px; background-color: rgb(46, 46, 46);
+}
+.callSupportWindow .content input[type='button'] {
+	background: url("/i/btn-call-support-fs.png") no-repeat; border: currentColor; border-image: none; width: 78px; height: 21px; color: rgb(255, 255, 255); font-size: 12px; font-weight: bold; margin-top: 16px; cursor: pointer;
+}
+.callSupportWindow .content dt {
+	margin: 3px -100% 2px 0px; float: left;
+}
+.callSupportWindow li label input {
+	margin: 0px 3px 0px 0px; top: 3px; position: relative;
+}
+.callSupportWindow .content dd.who .autocomplete li {
+	margin: 0px 0px 5px; padding: 0px 0px 0px 3px; color: rgb(51, 51, 51); line-height: 14px; font-family: Arial; font-size: 12px; cursor: pointer;
+}
+.callSupportWindow .content dd.who .autocomplete li:hover {
+	text-decoration: underline;
+}
+.callSupportWindow .content dd.who .autocomplete {
+	width: 206px; padding-top: 4px;
+}
+.callSupportWindow .content dd.who {
+	position: relative;
+}
+.callSupportWindow .content dd {
+	margin: 0px 0px 8px 80px;
+}
+.profile-form-notice {
+	font-size: 1.1em;
+}
+.profile-form-notice dl {
+	background: url("/i/new/person/sep.gif") repeat-x bottom; padding: 5px 3px; width: 100%; overflow: hidden;
+}
+.profile-form-notice dt {
+	width: 70%; color: rgb(51, 51, 51);
+}
+.profile-form-notice dd {
+	width: 15%; text-align: center; color: rgb(102, 102, 102); font-size: 0.8em; float: right;
+}
+.profile-form-notice h2 {
+	background: url("/i/new/person/sep.gif") repeat-x bottom; padding: 26px 0px 9px 3px; font-size: 1.2em; margin-bottom: -1px;
+}
+.profile-form-notice h3 {
+	background: url("/i/new/person/sep.gif") repeat-x bottom rgb(255, 255, 255); padding: 0px 0px 7px 3px; color: rgb(102, 102, 102); font-size: 1.05em;
+}
+.profile-form-notice .padding-form-left dl dt {
+	padding-left: 19px;
+}
+form.profile-form-notice dt {
+	float: left;
+}
+form.profile-form-notice dd {
+	float: left;
+}
+.settings__buttonsRight {
+	width: 200px; float: right;
+}
+.settings__buttonsRightTop {
+	margin-top: 15px;
+}
+.settings__buttonsRight button {
+	float: right;
+}
+.userAdd {
+	margin: 9px 0px -25px 21px; float: left; display: block;
+}
+.padding-form-left {
+	padding-bottom: 30px;
+}
+.aboutwholist dt {
+	font-family: Georgia; font-style: italic;
+}
+.button {
+	overflow: hidden;
+}
+.button button {
+	float: right;
+}
+.notes {
+	margin: 49px 0px 35px; color: rgb(102, 102, 102); font-size: 0.8em; display: block;
+}
+.settingsTabs {
+	overflow: hidden; padding-left: 1px; margin-bottom: -1px; -ms-zoom: 1;
+}
+.settingsTabs li {
+	margin-left: -1px; float: left;
+}
+.settingsTabs li a {
+	background: url("/i/profile/bg_setting_menu.gif") repeat-x bottom rgb(248, 248, 248); border-width: 1px; border-style: solid; border-color: rgb(226, 226, 226) rgb(226, 226, 226) rgb(199, 199, 199); padding: 5px 20px 6px; border-image: none; display: block;
+}
+.settingsTabs li a.settingsTabs__link-active {
+	background: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(199, 199, 199) rgb(199, 199, 199) rgb(255, 255, 255); border-image: none; color: rgb(0, 0, 0); position: relative; z-index: 1;
+}
+.person {
+	padding-top: 6px; font-family: georgia; font-style: italic; display: block;
+}
+.message_toggle {
+	background: url("/i/ban.gif") no-repeat 0px 2px; padding: 0px 0px 0px 20px; top: 50%; width: 100px; height: 30px; right: 0px; color: rgb(0, 0, 0); font-size: 11px; margin-top: -15px; position: absolute;
+}
+.message_toggle.noban {
+	background: none; padding: 0px; width: 118px; margin-top: -10px;
+}
+.ban .manage_bar a {
+	padding: 0px 2px; font-weight: normal; display: block;
+}
+.ban .manage_bar span {
+	padding: 0px 2px; font-weight: normal; display: block;
+}
+.entrysubscribe_toggle {
+	background: url("/i/entrysubscribe.gif") no-repeat 0px 2px; padding: 0px 0px 0px 20px; top: 50%; width: 100px; height: 30px; right: 0px; color: rgb(0, 0, 0); font-size: 11px; margin-top: -15px; position: absolute;
+}
+.settings {
+	padding: 27px; border: 1px solid rgb(199, 199, 199); border-image: none;
+}
+.settings .settings__button {
+	width: 411px; overflow: hidden; padding-left: 0px; margin-top: 20px; margin-bottom: 0px;
+}
+.settings .settings__button dd {
+	background: url("/i/new/profile/bg-button2.png") no-repeat -299px 0px; height: 22px; color: rgb(8, 51, 95); padding-left: 1px; margin-left: 6px; float: right; display: block; cursor: pointer;
+}
+.settings .settings__button dd input {
+	background: url("/i/new/profile/bg-button2.png") no-repeat 100% 0px; padding: 0px 10px; width: 84px; height: 22px; color: rgb(8, 51, 95); line-height: 12px; font-size: 12px; float: left; display: block; cursor: pointer;
+}
+.settings .settings__button dd.blueButton {
+	background-position: -299px -22px;
+}
+.settings .settings__button dd.blueButton input {
+	background-position: 100% -22px; width: 130px; color: rgb(255, 255, 255); font-weight: bold;
+}
+.settings button {
+	background: rgb(255, 255, 255); margin: 0px 2px; padding: 0px; border: 0px solid currentColor; border-image: none; font-size: 12px; display: block; -ms-zoom: 1;
+}
+.settings button span {
+	margin: 0px; padding: 0px; display: block; -ms-zoom: 1;
+}
+.settings button span span {
+	margin: 0px; padding: 3px 15px 0px; height: 19px; color: rgb(22, 68, 104); font-size: 12px; display: block; -ms-zoom: 1;
+}
+.settings button.reset span {
+	background: url("/i/messages/bg_button.png") no-repeat right -256px;
+}
+.settings button.reset span span {
+	background: url("/i/messages/bg_button.png") no-repeat 0px -278px;
+}
+.settings button.submit span {
+	background: url("/i/messages/bg_button.png") no-repeat right -212px;
+}
+.settings button.submit span span {
+	background: url("/i/messages/bg_button.png") no-repeat 0px -234px; color: rgb(255, 255, 255);
+}
+.settings-index h1 {
+	font: bold 18px/18px Arial; padding: 3px 0px 17px 10px; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; font-size-adjust: none; font-stretch: normal;
+}
+.settings-index form.changePassword {
+	margin: 23px 0px 43px 10px;
+}
+.settings-index form.changeEmail {
+	margin: 23px 0px 0px 10px;
+}
+.settings-index form .error {
+	color: rgb(203, 12, 12); line-height: 14px; font-size: 12px; margin-bottom: 10px;
+}
+.settings-index form h2 {
+	color: rgb(69, 69, 69); line-height: 16px; font-size: 14px; font-weight: bold; margin-bottom: 22px;
+}
+.settings-index form dl {
+	overflow: hidden; padding-left: 150px; margin-bottom: 6px;
+}
+.settings-index form dl dt {
+	height: 20px; line-height: 14px; padding-top: 3px; font-size: 12px; margin-left: -150px; float: left;
+}
+.settings-index form dl dd {
+	background: url("/i/new/bg-input-rc.gif") no-repeat -499px 0px; padding-left: 1px; float: left;
+}
+.settings-index form dl dd input {
+	background: url("/i/new/bg-input-rc.gif") no-repeat 100% 0px; padding: 3px; border: currentColor; border-image: none; width: 254px; line-height: 14px; font-size: 12px;
+}
+.settings-index form.hideMe {
+	margin: 43px 0px 0px 10px;
+}
+.settings-index form.hideMe h2 {
+	margin-bottom: 18px;
+}
+.settings-index form.hideMe label input {
+	top: 2px; margin-right: 4px; position: relative;
+}
+.settings-ribbon {
+	overflow: hidden;
+}
+.settings-ribbon img {
+	margin-top: -6px; margin-right: 5px; float: left;
+}
+.settings-ribbon p {
+	padding: 0px 0px 15px; float: left;
+}
+.settings-ribbon dl dd {
+	width: 20px; float: left;
+}
+.settings-ribbon h3 {
+	color: rgb(0, 0, 0);
+}
+.settings-ribbon h2 {
+	background: none; padding: 0px; font-size: 16px; font-weight: normal; display: inline;
+}
+.settings-ribbon .settingsRibbon__addButton {
+	background: url("/i/new/person/sep.gif") repeat-x bottom; padding: 7px 0px 9px; overflow: hidden; -ms-zoom: 1;
+}
+.settings-ribbon .h-settingsRibbon__column {
+	margin: 15px 0px; padding: 20px 0px; width: 100%; overflow: hidden; border-top-color: rgb(226, 226, 226); border-bottom-color: rgb(226, 226, 226); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; float: left;
+}
+.settings-ribbon .h-settingsRibbon__column .h-settingsRibbon__left {
+	width: 47%; float: left;
+}
+.settings-ribbon .h-settingsRibbon__column .h-settingsRibbon__right {
+	width: 47%; float: right;
+}
+.settings-ribbon .h-settingsRibbon__column .h-settingsRibbon__right dd {
+	padding-top: 8px;
+}
+.settings-ribbon .h-settingsRibbon__column .h-settingsRibbon__right a {
+	color: rgb(0, 0, 0);
+}
+.setting form.changePassword * {
+	font-family: Arial;
+}
+.setting form.changeEmail * {
+	font-family: Arial;
+}
+.settings-notice form.profile-form-notice dl dd {
+	width: 15%; text-align: center; color: rgb(102, 102, 102); font-size: 0.8em; float: right;
+}
+.settings-notice form.profile-form-notice dl.noticeFormHead {
+	background: none; width: 30%; float: right;
+}
+.settings-notice form.profile-form-notice dl.noticeFormHead dd {
+	margin: 0px 5px; width: 40%;
+}
+.settings-notice .settings-notice__button button {
+	float: right;
+}
+.settings-ban h2 {
+	margin: 0px 0px 10px; font-size: 1.2em;
+}
+.settings-ban ul {
+	border-top-color: rgb(0, 0, 0); border-top-width: 1px; border-top-style: solid;
+}
+.settings-ban ul.first {
+	border: currentColor; border-image: none;
+}
+.settings-ban ul div {
+	width: 77%; line-height: 1.5em; float: left;
+}
+.settings-ban ul div .usercard {
+	padding-top: 10px; display: block;
+}
+.settings-ban ul li {
+	background: url("/i/new/person/sep.gif") repeat-x bottom; padding: 10px 0px 11px; overflow: hidden; margin-bottom: -1px; position: relative;
+}
+.settings-ban ul li img {
+	margin-right: 13px; float: left;
+}
+.settings-ban ul li span {
+	color: rgb(137, 137, 137); font-size: 0.9em;
+}
+.settings-ban ul li.first {
+	background: none;
+}
+.settings-ban ul li.last {
+	background: none;
+}
+.settings-ban .usercard {
+	color: rgb(0, 0, 0); font-family: georgia; font-size: 1.2em; font-style: italic; font-weight: bold;
+}
+.settings-ban .manage_bar {
+	padding: 10px 10px 10px 0px; color: rgb(76, 76, 76); font-size: 0.9em;
+}
+.settings-ban .manage_bar ul {
+	padding: 0px; border: 0px solid currentColor; border-image: none;
+}
+.settings-ban .manage_bar * {
+	background: none; float: left;
+}
+.settings-ban .manage_bar li {
+	padding: 0px; color: rgb(0, 0, 0); font-weight: bold;
+}
+.members-list {
+	margin: 53px 0px 24px;
+}
+.members-list__item {
+	margin: 0px 0px 10px; width: 265px; vertical-align: top; display: inline-block; min-height: 110px;
+}
+:nth-child(3n).members-list__item {
+	width: 175px;
+}
+:nth-child(3n).members-list__item .userInSubject {
+	max-width: 77px;
+}
+.members-list__item .userInSubject {
+	padding: 27px 0px 0px 18px; font-weight: normal; float: left; display: block; min-height: 83px; max-width: 167px;
+}
+.members-list__item-pic {
+	float: left; display: block;
+}
+.profile-search-results {
+	margin-top: 33px;
+}
+.profile-search-results__item {
+	font: 18px/36px "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(8, 52, 99); text-transform: capitalize; padding-right: 4px; font-size-adjust: none; font-stretch: normal;
+}
+.profile-search-results__item sup {
+	font-size: 12px;
+}
+.profile-search-results h2 {
+	font: italic 30px/30px Georgia, Times, "Times New Roman", serif; margin: 37px 0px 11px; color: rgb(169, 166, 166); font-size-adjust: none; font-stretch: normal;
+}
+.profile-search-results h2:first-child {
+	margin-top: 0px;
+}
+.profile-search-results_date {
+	margin-top: 30px;
+}
+@media all and (min-width:770px)
+{
+.blogHeader span.red {
+	color: rgb(181, 0, 5); font-size: 9px; font-style: normal; font-weight: bold;
+}
+}
+.blogHeader {
+	background: url("/i/blog/bg_top.jpg") repeat-x bottom rgb(250, 250, 250); padding: 12px 29px 7px; border: 1px solid rgb(199, 199, 199); border-image: none; color: rgb(51, 51, 51);
+}
+.blogHeader span.userInSubject {
+	font-size: 12px; font-weight: normal;
+}
+.blogHeader .g-moreAll {
+	font-weight: bold; margin-top: 30px; float: right; display: block;
+}
+.blogHeader__header {
+	padding: 4px 0px 0px; margin-bottom: 11px; position: relative;
+}
+.blogHeader__header h1 {
+	color: rgb(51, 51, 51); font-family: Georgia, Times, "Times New Roman", serif; font-size: 31px; margin-bottom: 11px; float: left;
+}
+.blogHeader__header h1 span {
+	font-size: 26px; font-weight: normal;
+}
+.blogHeader__header__sort {
+	float: right;
+}
+.blogHeader__header__sort a:last-child {
+	margin-left: 10px;
+}
+.blogHeader__recent {
+	width: 60%; padding-right: 50px; float: left;
+}
+.blogHeader__recent p {
+	line-height: 1.16em;
+}
+.blogHeader__recent h2 {
+	font-size: 1.2em; margin-bottom: 0.18em;
+}
+.blogHeader__recent h2 a {
+	color: rgb(0, 0, 0);
+}
+.blogHeader__recent h2 a span.userInSubject {
+	font-size: 14px;
+}
+.blogHeader__featured {
+	width: 31%; font-size: 0.9em; float: left;
+}
+.blogHeader__featured h4 {
+	color: rgb(181, 0, 5); font-size: 9px; font-weight: bold;
+}
+.blogHeader__featured ul li {
+	background: url("/i/profile/li.gif") no-repeat 0px 8px; line-height: 1.2em; padding-top: 4px; padding-bottom: 2px; padding-left: 10px; font-size: 1.1em;
+}
+.blogHeader__controls {
+	background: url("/i/new/magazine/dotted.gif") repeat-x bottom; padding: 27px 12px 19px 30px; overflow: hidden; margin-right: 10px;
+}
+.blogHeader__controls .controls {
+	padding-top: 3px;
+}
+.blogHeader__filter {
+	font: 0.91em/1.1 "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0px 2px 0px 0px; padding: 8px; color: rgb(0, 0, 0); display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+:first-child.blogHeader__filter {
+	margin-left: -6px;
+}
+.blogHeader__filter.active {
+	background: rgb(232, 232, 232); border-radius: 3px; position: relative;
+}
+.blogHeader__filter.active::after {
+	border-width: 7px 5px 0px; border-style: solid; border-color: rgb(232, 232, 232) transparent transparent; left: 50%; width: 0px; height: 0px; bottom: -7px; margin-left: -5px; display: block; position: absolute; content: "";
+}
+.blogHeader__add {
+	margin-top: -8px; float: right;
+}
+.blogHeader__add:hover {
+	color: rgb(245, 245, 245); box-shadow: 0px 3px 4px -2px #c2c3c3;
+}
+.blogHeader time {
+	font-size: 0.95em;
+}
+.blogHeader time span {
+	padding-right: 5px;
+}
+.blogHeader__rss {
+	font: 10px/10px "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 0px 0px 0px 27px; top: 16px; right: 1px; text-transform: uppercase; display: block; position: absolute; font-size-adjust: none; font-stretch: normal;
+}
+.blogHeader .arrow-back {
+	background-position: -16px -66px; margin: 0px 4px; top: 2px; width: 11px; height: 11px; display: inline-block;
+}
+.blogHeader a:hover {
+	color: rgb(255, 0, 0);
+}
+.one .last-writing {
+	width: 100%; padding-right: 0px;
+}
+@media all and (min-width:770px)
+{
+.subscriberStatus p {
+	font: bold 11px/16px Arial; font-size-adjust: none; font-stretch: normal;
+}
+.subscriberStatus p b {
+	font: 14px/17px Arial; font-size-adjust: none; font-stretch: normal;
+}
+.subscriberStatus p i {
+	font: 14px/17px Arial; font-size-adjust: none; font-stretch: normal;
+}
+.subscriberStatus-message a {
+	font: 13px/13px Arial; font-size-adjust: none; font-stretch: normal;
+}
+}
+.subscriberStatus {
+	background: url("/i/new/person/bg-person-format.gif") no-repeat 189px 9px / 40px rgb(248, 248, 248); margin: 0px 0px 10px; padding: 15px 14px 12px; border: 1px solid rgb(227, 227, 227); border-image: none;
+}
+.subscriberStatus p {
+	color: rgb(178, 178, 178);
+}
+.subscriberStatus p b {
+	color: rgb(51, 51, 51);
+}
+.subscriberStatus p i {
+	color: rgb(158, 62, 160);
+}
+.subscriberStatus-partner {
+	background-position: 188px 35px; background-size: 29px;
+}
+.subscriberStatus-message {
+	background-position: 188px 6px; padding: 13px 14px; background-size: 29px;
+}
+.subscriberStatus-message a {
+	color: rgb(8, 51, 103); display: block;
+}
+.disabled a {
+	color: rgb(119, 119, 119);
+}
+.next {
+	border: 1px solid rgb(199, 199, 199); border-image: none; height: 9px; display: block; background-image: url("/i/new/person/ic.png"); background-repeat: no-repeat; background-color: rgb(237, 237, 237);
+}
+.prev {
+	border: 1px solid rgb(199, 199, 199); border-image: none; height: 9px; display: block; background-image: url("/i/new/person/ic.png"); background-repeat: no-repeat; background-color: rgb(237, 237, 237);
+}
+.prev {
+	background-position: 132px -140px;
+}
+.next {
+	background-position: 132px -153px;
+}
+.next span {
+	display: none;
+}
+.prev span {
+	display: none;
+}
+.prev:hover {
+	border-color: rgb(255, 0, 0);
+}
+.next:hover {
+	border-color: rgb(255, 0, 0);
+}
+.prev-disabled {
+	border-color: rgb(238, 238, 238); cursor: default; background-color: rgb(255, 255, 255);
+}
+.next-disabled {
+	border-color: rgb(238, 238, 238); cursor: default; background-color: rgb(255, 255, 255);
+}
+.prev-disabled:hover {
+	border-color: rgb(238, 238, 238); cursor: default; background-color: rgb(255, 255, 255);
+}
+.next-disabled:hover {
+	border-color: rgb(238, 238, 238); cursor: default; background-color: rgb(255, 255, 255);
+}
+.next-disabled {
+	background-position: 132px -126px;
+}
+.next-disabled:hover {
+	background-position: 132px -126px;
+}
+.prev-disabled {
+	background-position: 132px -110px;
+}
+.prev-disabled:hover {
+	background-position: 132px -110px;
+}
+.content-person-you-read {
+	margin: 6px 11px 12px;
+}

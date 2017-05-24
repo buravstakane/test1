@@ -1,0 +1,219 @@
+@font-face {
+	font-family: electronicacregular;
+	src: url(/fonts/electronica/electronicac-webfont.eot?#iefix) format("embedded-opentype"), url(/fonts/electronica/electronicac-webfont.woff) format("woff"), url(/fonts/electronica/electronicac-webfont.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+.blogEntryBody .snobLike {
+	margin-bottom: 0px;
+}
+.blogEntryBody .repost-thread {
+	width: inherit; margin-top: -15px; float: right; display: block; position: static;
+}
+.blogEntryBody .repost-thread .repost-thread-list {
+	overflow: hidden; clear: right; float: right;
+}
+.blogEntryBody .repost-thread .repost-thread-list img {
+	float: left;
+}
+.blogEntryBody .repost-thread .repost-thread-list .blog-rss {
+	background: url("/i/profile/rss.gif") no-repeat 0px 0px; padding: 0px 0px 0px 15px; color: rgb(51, 51, 51); text-transform: uppercase; font-family: Arial; font-size: 10px; margin-top: 2px; float: right; display: block;
+}
+.blogEntryBody .repost-thread .repost-thread-item {
+	margin: 0px 0px 0px 5px; float: left;
+}
+.blogEntryBody .repost-thread .repost-thread-item .link {
+	font: 10px/17px Arial; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.blogEntryBody .repost-thread .repost-thread-item .ic {
+	margin: 0px 3px 0px 0px; padding: 5px 0px 0px; width: 14px; height: 14px; float: left; position: relative;
+}
+.social-likes .clear {
+	width: 0px !important;
+}
+.repost-thread-1 {
+	margin-top: 8px; margin-bottom: -23px;
+}
+.text {
+	color: rgb(0, 0, 0); -ms-zoom: 1;
+}
+.edit-entry i {
+	background: url("/i/new/person/ic.png") no-repeat 0px -168px; width: 15px; height: 13px; margin-top: 4px; margin-right: 5px; float: left; display: block;
+}
+.edit-entry {
+	color: rgb(8, 51, 95); font-size: 12px; font-weight: bold; float: right;
+}
+.all-rec {
+	color: rgb(8, 51, 95); font-size: 12px; font-weight: bold;
+}
+.content-person .all-rec i {
+	margin-top: 4px; margin-right: 5px; float: left;
+}
+.stuff {
+	padding: 20px 39px; line-height: 1.6em; font-size: 1.2em; position: relative;
+}
+.stuff ol {
+	list-style-type: decimal;
+}
+.stuff li {
+	list-style-type: decimal;
+}
+.stuff h2 {
+	margin-bottom: 11px;
+}
+.stuff h3 {
+	margin-bottom: 11px;
+}
+.stuff p {
+	margin-bottom: 1.6em;
+}
+.stuff h1 {
+	margin: 15px 0px 12px; width: 490px; line-height: 1.25em; font-size: 2.25em; display: block;
+}
+.stuff h3.lead {
+	margin-bottom: 12px;
+}
+.stuff-comments-header {
+	color: rgb(0, 0, 0);
+}
+.stuff .meta {
+	font-family: Georgia; font-size: 0.85em;
+}
+.stuff .content.smallFS h2 {
+	font-size: 16px;
+}
+.stuff .content.smallFS h3 {
+	font-size: 12px;
+}
+.stuff .content.smallFS p {
+	font-size: 12px;
+}
+.stuff .content.smallFS li span {
+	font-size: 12px;
+}
+.stuff .content.bigFS h2 {
+	font-size: 20px;
+}
+.stuff .content.bigFS h3 {
+	font-size: 16px;
+}
+.stuff .content.bigFS p {
+	font-size: 16px;
+}
+.stuff .content.bigFS li span {
+	font-size: 16px;
+}
+.content-person .comments {
+	background: rgb(241, 241, 241); font: 12px/normal Georgia; height: auto; text-align: left; color: rgb(127, 127, 127); overflow: hidden; -ms-zoom: 1; font-size-adjust: none; font-stretch: normal;
+}
+.content-person .comment-content {
+	padding: 0px 30px;
+}
+.content-person .stuff-comments-header {
+	padding: 12px 30px;
+}
+.navigation-entry {
+	overflow: hidden; padding-bottom: 15px; -ms-zoom: 1;
+}
+.stuff-comments-header a.show-all {
+	padding-left: 5px;
+}
+.stuff .meta span {
+	padding-right: 5px;
+}
+.red {
+	color: rgb(181, 0, 5);
+}
+.meta a span {
+	color: rgb(8, 51, 95); text-transform: uppercase; font-size: 12px; font-style: normal; font-weight: bold;
+}
+.meta a {
+	color: rgb(0, 0, 0);
+}
+.division-profile_blog-entry .column.profileContent {
+	border: 1px solid rgb(199, 199, 199); border-image: none; width: 728px;
+}
+.tags {
+	font-size: 11px;
+}
+.stuff .text img {
+	height: auto; max-width: 100%;
+}
+.text a {
+	color: rgb(255, 0, 0); text-decoration: underline;
+}
+.stuff .lead a {
+	color: rgb(255, 0, 0); text-decoration: underline;
+}
+.text a:hover {
+	color: rgb(255, 102, 51);
+}
+p.left {
+	text-align: left;
+}
+p.right {
+	text-align: right;
+}
+p.center {
+	text-align: center;
+}
+span.underline {
+	text-decoration: underline;
+}
+.media.image {
+	margin: 0px 0px 31px;
+}
+.media.image dd {
+	padding: 34px 0px; border: 6px solid rgb(229, 229, 229); border-image: none; text-align: center;
+}
+.media.image dd img {
+	margin: 0px auto; display: block;
+}
+.media.image dt {
+	padding: 11px 0px; text-align: center; color: rgb(196, 196, 196); line-height: 12px; font-family: Tahoma; font-size: 10px; margin-top: -40px;
+}
+.media.image dt.description {
+	margin: 10px 0px 0px; text-align: left; color: rgb(84, 84, 84); line-height: 14px; padding-bottom: 0px; font-family: Arial; font-size: 12px;
+}
+.media.image.alignLeft {
+	margin: 5px 27px 27px 0px; overflow: hidden; float: left;
+}
+.media.image.alignRight {
+	margin: 5px 0px 27px 27px; float: right;
+}
+.media.image.alignLeft dd {
+	background: none; padding: 0px; border: currentColor; border-image: none; margin-bottom: 17px;
+}
+.media.image.alignRight dd {
+	background: none; padding: 0px; border: currentColor; border-image: none; margin-bottom: 17px;
+}
+.media.image.alignLeft dt {
+	padding: 5px 0px 0px; text-align: left; color: rgb(115, 115, 115); margin-top: -17px;
+}
+.media.image.alignRight dt {
+	padding: 5px 0px 0px; text-align: left; color: rgb(115, 115, 115); margin-top: -17px;
+}
+.media.image.alignRight dt {
+	text-align: right;
+}
+.media.image.alignLeft dt.description {
+	margin-top: 0px;
+}
+.media.image.alignRight dt.description {
+	margin-top: 0px;
+}
+.stuff ul.social-likes {
+	margin-bottom: 17px !important;
+}
+.stuff ul.entryFeatures {
+	margin-top: 0px !important;
+}
+p.counter {
+	margin: 0px 10px; padding: 5px 9px 0px 10px; border-radius: 10px; border: 1px dashed rgb(183, 182, 183); border-image: none; color: rgb(128, 127, 127); line-height: 14px; font-family: Arial, sans-serif; font-size: 9px; font-style: normal; display: inline-block;
+}
+span.counter_number {
+	color: rgb(255, 0, 0); font-family: "electronicacregular"; font-size: 18px;
+}
+p.counter-null {
+	margin: 0px 10px; padding: 2px 9px 3px 10px; border-radius: 10px; border: 1px dashed rgb(183, 182, 183); border-image: none; color: rgb(255, 0, 0); line-height: 14px; font-family: "Arial"; font-size: 12px; font-style: normal; display: inline-block;
+}

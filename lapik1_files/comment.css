@@ -1,0 +1,1089 @@
+@media all and (min-width:770px)
+{
+#addressBook_CC .canvas {
+	width: 388px;
+}
+#addressBook_CC p {
+	font-size: 12px; margin-bottom: 4px; margin-left: 18px;
+}
+#addressBook_CC .list {
+	margin: 0px 0px 15px 18px; line-height: 16px; font-size: 12px; min-height: 35px;
+}
+#addressBook_CC .list i {
+	color: rgb(145, 145, 145); font-size: 12px; font-style: normal; display: inline;
+}
+#addressBook_CC {
+	width: 420px;
+}
+#addressBook_CC .blackRC {
+	width: 420px;
+}
+#addressBook_CC ul li {
+	width: 105px;
+}
+#addressBook_CC ul #t0 {
+	width: 107px;
+}
+#addressBook_CC input {
+	width: 387px;
+}
+#addressBook_CC #searchResult {
+	width: 387px;
+}
+}
+#addressBook_CC {
+	background: none;
+}
+#addressBook_CC .canvas {
+	margin: 0px auto;
+}
+#addressBook_CC .list a {
+	color: rgb(147, 146, 146) !important;
+}
+* html #addressBook_CC .list a {
+	height: 1em;
+}
+#addressBook_CC .list a:hover {
+	color: rgb(255, 0, 0) !important; text-decoration: line-through;
+}
+#addressBook_CC .blackRC .cn.tl {
+	
+}
+#addressBook_CC .blackRC .cn.tr {
+	
+}
+@media all and (min-width:770px)
+{
+.stuff-comments form .formWrap {
+	padding: 13px 41px 52px 128px;
+}
+.comment-item .addComment .formWrap {
+	padding: 0px 0px 0px 85px;
+}
+.stuff-comments .avatar {
+	background: url("/i/new/thread/comment-form/bg-avatar-big.png") no-repeat 0px 0px; padding: 2px 6px 3px 2px; overflow: hidden; margin-left: -87px; position: absolute; z-index: 99;
+}
+.stuff-comments form .close {
+	background: url("/i/comment/i-close.png") no-repeat 0px 0px; top: 13px; width: 15px; height: 13px; right: 14px; font-size: 0px; cursor: pointer;
+}
+.stuff-comments form h3 {
+	color: rgb(51, 51, 51);
+}
+.stuff-comments form .subject {
+	background: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(204, 204, 204) rgb(220, 220, 220); border-image: none; height: 23px; line-height: 14px;
+}
+.stuff-comments form .snobSkin table.mceLayout tr.mceFirst td.mceToolbar {
+	padding: 4px 0px;
+}
+.stuff-comments form .snob2Skin table.mceLayout tr.mceFirst td.mceToolbar {
+	padding: 4px 0px;
+}
+.stuff-comments form .snobSkin .mceButton {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snobSkin span.mceIcon {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snobSkin img.mceIcon {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snob2Skin .mceButton {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snob2Skin span.mceIcon {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snob2Skin img.mceIcon {
+	width: 22px; height: 22px;
+}
+.stuff-comments form .snobSkin span.mceIcon {
+	background: url("/i/comment/i-editorToolbar.png") no-repeat 0px 0px;
+}
+.stuff-comments form .snobSkin img.mceIcon {
+	background: url("/i/comment/i-editorToolbar.png") no-repeat 0px 0px;
+}
+.stuff-comments form .snob2Skin span.mceIcon {
+	background: url("/i/comment/i-editorToolbar.png") no-repeat 0px 0px;
+}
+.stuff-comments form .snob2Skin img.mceIcon {
+	background: url("/i/comment/i-editorToolbar.png") no-repeat 0px 0px;
+}
+.stuff-comments form .snobSkin span.mce_link {
+	background-position: 0px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_link {
+	background-position: 0px 0px;
+}
+.stuff-comments form .snobSkin .mceButtonActive span.mce_link {
+	background-position: 0px 0px;
+}
+.stuff-comments form .snob2Skin .mceButtonActive span.mce_link {
+	background-position: 0px 0px;
+}
+.stuff-comments form .snobSkin span.mce_snobimg {
+	background-position: -22px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_snobimg {
+	background-position: -22px 0px;
+}
+.stuff-comments form .snobSkin span.mce_snobembed {
+	background-position: -44px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_snobembed {
+	background-position: -44px 0px;
+}
+.stuff-comments form .snobSkin span.mce_snobuser {
+	background-position: -66px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_snobuser {
+	background-position: -66px 0px;
+}
+.stuff-comments form .snobSkin span.mce_snobvideo {
+	background-position: -110px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_snobvideo {
+	background-position: -110px 0px;
+}
+.stuff-comments form .snobSkin span.mce_snobcut {
+	background-position: -88px 0px;
+}
+.stuff-comments form .snob2Skin span.mce_snobcut {
+	background-position: -88px 0px;
+}
+.stuff-comments form .snobSkin .mceButtonActive span.mce_snobcut {
+	background-position: -88px 0px;
+}
+.stuff-comments form .snob2Skin .mceButtonActive span.mce_snobcut {
+	background-position: -88px 0px;
+}
+.stuff-comments form .snobSkin .mceSeparator {
+	margin: 0px 1px;
+}
+.stuff-comments form .snob2Skin .mceSeparator {
+	margin: 0px 1px;
+}
+.stuff-comments form .cc {
+	padding: 3px 10px 4px; height: 16px; line-height: 16px; font-size: 12px; margin-left: 56px;
+}
+.stuff-comments form .control {
+	height: 21px; margin-top: 8px; position: relative;
+}
+.stuff-comments form .submit {
+	background: url("/i/comment/bg-button.png") no-repeat 0px 0px; overflow: hidden; padding-left: 3px; float: right;
+}
+.stuff-comments form .submit input {
+	background: url("/i/comment/bg-button.png") no-repeat 100% 0px; margin: 0px; padding: 0px 10px 1px 6px; border: 0px currentColor; border-image: none; width: auto; height: 21px; color: rgb(255, 255, 255); overflow: visible; font-size: 11px; font-weight: bold; float: left; cursor: pointer;
+}
+.level-1 .addComment .formWrap {
+	padding: 0px 0px 0px 131px;
+}
+.level-3 {
+	margin: -1px 0px 0px 130px;
+}
+.level-4 {
+	margin: -1px 0px 0px 169px;
+}
+.level-5 {
+	margin: -1px 0px 0px 210px;
+}
+.level-6 {
+	margin: -1px 0px 0px 251px;
+}
+.level-7 {
+	margin: -1px 0px 0px 292px;
+}
+.level-1 dl.video {
+	width: 527px !important;
+}
+}
+.comment-content {
+	padding: 0px 40px;
+}
+.stuff-comments {
+	background: rgb(241, 241, 241); position: relative;
+}
+.stuff-comments__button {
+	background: url("/i/comment/become_button.png") no-repeat; margin: 59px 0px 0px; width: 210px; height: 39px; float: left; display: block; cursor: pointer;
+}
+.stuff-comments__statement {
+	margin: 54px 0px 55px 42px; width: 432px; line-height: 20px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; float: left;
+}
+.entryBody .stuff-comments {
+	background: rgb(241, 241, 241); margin: 0px -39px; clear: left; position: relative;
+}
+div.h-layoutNarrow div.content div.stuff-comments {
+	border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(199, 199, 199) rgb(199, 199, 199); border-image: none; margin-bottom: 25px; background-color: rgb(241, 241, 241);
+}
+.stuff-comments .stuff-comments-bg-top {
+	background: url("/i/new/thread/bg-comment-top.jpg") repeat-x 0px 0px; left: 0px; top: 0px; height: 43px; position: absolute;
+}
+.stuff-comments .stuff-comments-bg-bottom {
+	padding-bottom: 23px; position: relative;
+}
+.text-comment .wrapper-text {
+	
+}
+.comment-content {
+	position: relative;
+}
+.commentLinkPopup .close {
+	top: 10px; right: 10px; position: absolute; cursor: pointer;
+}
+.popup_close {
+	background: url("/i/messages/b_close_pop.gif") 0px 0px; width: 13px; height: 12px; float: right; display: block;
+}
+.stuff-comments-content {
+	position: relative; z-index: 10;
+}
+.stuff-comments-header {
+	padding: 12px 40px;
+}
+.stuff-comments-header {
+	position: relative;
+}
+.stuff-comments-header .comments-count {
+	font: bold 1.17em/1.2142 Arial; font-size-adjust: none; font-stretch: normal;
+}
+.stuff-comments-header::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: "";
+}
+.stuff-comments-header a {
+	font: 0.89em/17px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.stuff-comments-header a.show-all {
+	font: 11px/17px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.stuff-comments-header a.show-all:hover {
+	color: rgb(255, 0, 0);
+}
+.stuff-comments-header a.subscribeComments:hover {
+	color: rgb(255, 0, 0);
+}
+.stuff-comments-header a.addComment:hover {
+	color: rgb(255, 0, 0);
+}
+.stuff-comments-header span.right-control {
+	top: 1px; color: rgb(153, 153, 153); float: right; position: relative;
+}
+.stuff-comments-header span.right-control a i {
+	background: url("/i/new/thread/ic-comment.gif") no-repeat 0px 0px; top: 2px; width: 12px; height: 12px; overflow: hidden; display: inline-block; position: relative; -ms-zoom: 1;
+}
+.tab-control {
+	padding: 13px 0px; width: 100%; overflow: hidden; position: relative;
+}
+.tab-control-wraper {
+	margin: 0px 0px 0px -33px; left: 50%; position: relative;
+}
+.tab-control-wraper .tab-control-coment {
+	float: left;
+}
+.tab-control-wraper .tab-control-coment .tab-control-bt {
+	width: 23px; height: 23px; overflow: hidden; float: left; display: block;
+}
+.bt1 {
+	background: url("/i/new/thread/bt-comment/bt1.png") no-repeat 0px 0px;
+}
+.active .bt1 {
+	background: url("/i/new/thread/bt-comment/bt1-a.png") no-repeat 0px 0px;
+}
+.bt2 {
+	background: url("/i/new/thread/bt-comment/bt2.png") no-repeat 0px 0px; width: 21px !important;
+}
+.active .bt2 {
+	background: url("/i/new/thread/bt-comment/bt2-a.png") no-repeat 0px 0px;
+}
+.bt3 {
+	background: url("/i/new/thread/bt-comment/bt3.png") no-repeat 0px 0px;
+}
+.active .bt3 {
+	background: url("/i/new/thread/bt-comment/bt3-a.png") no-repeat 0px 0px;
+}
+.tab-control-wraper .number-of-comment {
+	font: 11px/17px Arial; margin: 0px 0px 0px 8px; color: rgb(102, 102, 102); float: left; font-size-adjust: none; font-stretch: normal;
+}
+.tab-control-wraper .info-new-comment {
+	font: 14px/17px Georgia; color: rgb(8, 51, 95); float: left; font-size-adjust: none; font-stretch: normal;
+}
+.tab-control-wraper .info-new-comment i {
+	background: url("/i/new/thread/ic-new-com.png") no-repeat 0px 0px; font: bold 11px/11px Arial; margin: 3px 5px 0px 7px; width: 22px; height: 13px; text-align: center; color: rgb(255, 255, 255); float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item {
+	position: relative; z-index: 40;
+}
+.comment-item img.stamp {
+	display: none;
+}
+.text-comment::before {
+	border-style: solid; width: 0px; height: 0px; display: block; position: absolute; content: "";
+}
+.text-comment::after {
+	border-style: solid; width: 0px; height: 0px; display: block; position: absolute; content: "";
+}
+.text-comment::after {
+	border-width: 5.5px 6px 5.5px 0px; border-color: transparent rgb(255, 255, 255) transparent transparent; left: -6px; top: 10px;
+}
+.text-comment::before {
+	border-width: 6.5px 6px 6.5px 0px; border-color: transparent rgb(193, 193, 193) transparent transparent; left: -7px; top: 9px;
+}
+.level-1 {
+	margin: 6px 0px 0px;
+}
+.level-1_chosen {
+	margin: 9px 0px 0px;
+}
+.level-1 .comment-foto-author {
+	margin: 1px 0px 0px; width: 89px; height: 85px; float: left; position: relative; z-index: 11;
+}
+.level-1 .comment-foto-author img {
+	margin: 2px 0px 0px 2px; width: 80px; height: 80px;
+}
+.level-1 .text-comment {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 89px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.level-1 img.stamp {
+	left: -15px; width: 31px !important; height: 31px !important; bottom: -15px; display: block !important; position: absolute;
+}
+.level-1 .bull {
+	display: block !important;
+}
+.level-2 {
+	margin: -1px 0px 0px 88px;
+}
+.sub-level .comment-foto-author {
+	margin: 3px 0px 0px; width: 43px; height: 41px; float: left; position: relative; z-index: 15;
+}
+.sub-level .comment-foto-author img {
+	margin: 2px 0px 0px 2px; width: 36px; height: 36px;
+}
+.sub-level .text-comment {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 43px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.sub-level img.stamp {
+	left: -8px; width: 21px !important; height: 21px !important; bottom: -7px; display: block !important; position: absolute; z-index: 60;
+}
+.sub-level .bull {
+	display: block !important;
+}
+.comment-item .text-comment .wrapper-content-comment {
+	padding: 12px 15px 0px; overflow: hidden;
+}
+.comment-item .text-comment .meta-comment {
+	padding: 0px 0px 5px;
+}
+.comment-item .text-comment .meta-comment .chosen {
+	display: none;
+}
+.chosen .text-comment .meta-comment .chosen {
+	font: 9px/9px Arial; padding: 0px 0px 7px; color: rgb(181, 0, 5); text-transform: uppercase; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .meta-comment .author {
+	font: italic 14px/14px Georgia; padding: 0px 4px 0px 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .meta-comment .wrapper-author .author {
+	font: italic 11px/14px Georgia; padding: 0px 4px 0px 3px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .meta-comment .link {
+	font: 10px/10px Arial; color: rgb(4, 66, 124); float: none; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .meta-comment .link:hover {
+	color: rgb(255, 0, 0);
+}
+.comment-item .text-comment .comment-management {
+	padding: 9px 15px 0px; position: relative; -ms-zoom: 1;
+}
+.comment-item .text-comment .comment-management a:hover {
+	color: rgb(255, 0, 0);
+}
+.comment-item .text-comment .comment-management .comment-promotion {
+	background: url("/i/new/thread/ic-comment-promotion.png") no-repeat 0px -1px; padding: 0px 10px 0px 20px; float: left; display: block;
+}
+.comment-item .text-comment .comment-management .comment-stared {
+	background: url("/i/new/thread/ic-comment-stared.png") no-repeat 0px 1px; padding: 0px 0px 0px 20px; float: left; display: block;
+}
+.comment-item .text-comment .comment-management .comment-reply {
+	background: url("/i/new/thread/ic-comment-reply.png") no-repeat 0px 0px; padding: 0px 10px 0px 20px; float: left; display: block;
+}
+.comment-item .text-comment .comment-management .comment-edit {
+	background: url("/i/new/comment/i-controls.png") no-repeat 0px -51px; padding: 0px 10px 0px 20px; float: left; display: block;
+}
+.comment-item .text-comment .comment-management .comment-delete {
+	background: url("/i/new/comment/i-controls.png") no-repeat 0px -35px; padding: 0px 10px 0px 20px; float: left; display: block;
+}
+.comment-item .text-comment .comment-promotion {
+	padding: 4px 15px 12px; position: relative; -ms-zoom: 1;
+}
+.comment-item .text-comment .comment-promotion .text-comment-promotion {
+	font: 11px/15px Arial; margin: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .comment-promotion .text-comment-promotion a.usercard {
+	font: italic 0.91em/1.36 Georgia; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .comment-promotion .text-comment-promotion .link {
+	font: italic 0.91em/1.36 Georgia; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .comment-promotion .text-comment-promotion .link.snob {
+	font: italic bold 11px/15px Georgia; font-size-adjust: none; font-stretch: normal;
+}
+.comment-item .text-comment .meta-comment .manage-comment {
+	display: none;
+}
+.short .level-1 {
+	margin: 6px 0px 0px;
+}
+.short .level-1 .comment-foto-author {
+	display: none;
+}
+.short .level-1 .text-comment {
+	background: 0px 0px; margin: 0px 0px 0px 89px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.short .comment-foto-author {
+	display: none;
+}
+.short .text-comment {
+	background: none; margin: 0px 0px 0px 43px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.short .comment-item .text-comment .wrapper-content-comment {
+	padding: 0px; overflow: visible;
+}
+.short .comment-item .text-comment .meta-comment {
+	margin: 0px; padding: 0px 0px 0px 14px;
+}
+.short .comment-item .text-comment .meta-comment .author {
+	font: italic 12px/20px Georgia; padding: 0px 4px 0px 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.short .comment-item .text-comment .meta-comment .text-comment-time {
+	font: italic 10px/21px Arial; padding: 0px 4px 0px 0px; color: rgb(128, 128, 128); font-size-adjust: none; font-stretch: normal;
+}
+.short .comment-item .text-comment .meta-comment .link {
+	display: none;
+}
+.short .comment-item .text-comment .comment-management {
+	display: none;
+}
+.short .comment-item .text-comment .comment-promotion {
+	display: none;
+}
+.short .comment-item .text-comment .wrapper-text {
+	display: none;
+}
+.short .comment-item .text-comment .meta-comment .manage-comment {
+	height: 12px; line-height: 12px; margin-right: 28px; float: right; display: none;
+}
+.short .hover .text-comment {
+	background: rgb(220, 220, 220);
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-comments:hover {
+	color: rgb(8, 51, 95); text-decoration: underline;
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-tree-comments {
+	font: 9px/normal Arial; margin: 0px 0px 0px 10px; text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-tree-comments:hover {
+	color: rgb(8, 51, 95); text-decoration: underline;
+}
+div.bull {
+	background: url("/i/new/thread/bull.png") no-repeat 0px 0px; top: 7px; width: 7px; height: 8px; right: 7px; display: none; position: absolute;
+}
+.short .wrapper-author {
+	display: none;
+}
+.short .level-1_show .comment-foto-author {
+	display: block;
+}
+.short .level-1_show .text-comment {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 89px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.short .level-1_show .wrapper-author {
+	display: inline;
+}
+.short .level-1_show .text-comment .wrapper-text h5 {
+	display: inline !important;
+}
+.short .sub-level_show .comment-foto-author {
+	display: block;
+}
+.short .sub-level_show .text-comment {
+	background: rgb(255, 255, 255); margin: 0px 0px 0px 43px; border: 1px solid rgb(193, 193, 193); border-image: none; left: -1px; position: relative; z-index: 10;
+}
+.short .sub-level_show .wrapper-author {
+	display: inline;
+}
+.short .sub-level_show .text-comment .wrapper-text h5 {
+	display: inline !important;
+}
+.short .show .text-comment .wrapper-content-comment {
+	padding: 8px 15px 0px;
+}
+.short .show .text-comment .meta-comment {
+	padding: 0px 0px 7px;
+}
+.short .show .text-comment .meta-comment .author {
+	font: italic 14px/21px Georgia; padding: 0px 4px 0px 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.short .show .text-comment .meta-comment .text-comment-time {
+	font: italic 12px/21px Arial; padding: 0px 4px 0px 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.short .show .text-comment .meta-comment .link {
+	font: 12px/21px Arial; color: rgb(8, 51, 95); text-decoration: none; display: inline; font-size-adjust: none; font-stretch: normal;
+}
+.short .show .text-comment .comment-management {
+	font: 12px/21px Arial; color: rgb(8, 51, 95); text-decoration: none; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.short .show .text-comment .comment-management a {
+	color: rgb(8, 51, 95);
+}
+.short .show .text-comment .comment-promotion {
+	display: block;
+}
+.short .show .text-comment .wrapper-text {
+	display: block;
+}
+.short .show .text-comment .wrapper-text p {
+	font: 12px/15px Arial; color: rgb(0, 0, 0); margin-bottom: 0px; font-size-adjust: none; font-stretch: normal;
+}
+.short .show .text-comment .wrapper-text h5 {
+	display: none;
+}
+.short .show .text-comment .meta-comment .manage-comment {
+	display: none;
+}
+.short .hover .text-comment {
+	background: rgb(248, 248, 248);
+}
+.short .hover .text-comment .meta-comment .manage-comment {
+	display: block;
+}
+.short .hover.show .text-comment .meta-comment .manage-comment {
+	display: none;
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-comments {
+	font: 9px/22px Arial; margin: 0px; color: rgb(8, 51, 95); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.short .hover .text-comment .meta-comment .manage-comment a {
+	color: rgb(8, 51, 95);
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-comments:hover {
+	color: rgb(8, 51, 95); text-decoration: underline;
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-tree-comments {
+	font: 9px/normal Arial; margin: 0px 0px 0px 10px; text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.short .hover .text-comment .meta-comment .manage-comment .show-tree-comments:hover {
+	color: rgb(8, 51, 95); text-decoration: underline;
+}
+.level-1_author {
+	margin: 15px 0px 0px; z-index: 20;
+}
+.level-1_author .comment-foto-author {
+	background: url("/i/new/thread/comment-author/bg-coment-author.png") no-repeat 0px 0px; margin: 1px 0px 0px; width: 90px; height: 85px; float: left; position: relative; z-index: 11;
+}
+.level-1_author .comment-foto-author img {
+	width: 80px; height: 80px;
+}
+.level-1_author .text-comment {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 89px; border: 2px solid rgb(213, 0, 2) !important; border-image: none !important; left: -1px; position: relative; z-index: 10; box-shadow: 0px 0px 10px #999; -webkit-box-shadow: 0px 0px 10px #999; -moz-box-shadow: 0px 0px 10px #999;
+}
+.short .level-1_author .text-comment {
+	box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none;
+}
+.level-1_author .text-comment .meta-comment .author {
+	font: italic bold 15px/normal Georgia; color: rgb(213, 0, 2); font-size-adjust: none; font-stretch: normal;
+}
+.sub-level_author .comment-foto-author {
+	background: url("/i/new/thread/comment-author/bg-coment-author-sub.png") no-repeat 0px 0px; margin: 3px 0px 0px; width: 43px; height: 41px; float: left; position: relative; z-index: 15;
+}
+.sub-level_author {
+	z-index: 80;
+}
+.sub-level_author .comment-foto-author img {
+	width: 36px; height: 36px;
+}
+.sub-level_author .text-comment {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 43px; border: 1px solid rgb(213, 0, 2) !important; border-image: none !important; left: -1px; position: relative; z-index: 10;
+}
+.comment-item .text-comment .meta-comment .author-big {
+	font: italic bold 1em/normal Georgia !important; color: rgb(213, 0, 2) !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.comment-item.is_self_only .text-comment {
+	height: auto !important;
+}
+.comment-item.deleted .comment-foto-author {
+	background: url("/i/new/thread/bg-comment-avatar-deleted.jpg") no-repeat 0px 0px; margin: 2px 0px 0px; width: 43px; height: 41px; float: left; position: relative; z-index: 10;
+}
+.comment-item.deleted .comment-foto-author .foto-author {
+	width: 36px; height: 36px; opacity: 0.3;
+}
+.comment-item.deleted .text-comment {
+	background: url("/i/new/thread/bg-comment-deleted.jpg") repeat-x 0px 0px; border-color: rgb(193, 193, 193); height: 42px;
+}
+.group.short .comment-item.deleted .text-comment {
+	background: url("/i/new/thread/bg-comment-deleted.jpg") repeat-x 0px 0px !important;
+}
+.comment-item.deleted .text-comment .meta-comment {
+	padding: 13px 0px 7px 14px;
+}
+.comment-item.deleted .text-comment .comment-deleted-info {
+	font: 11px/normal Arial; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.comment-item.deleted .text-comment .comment-deleted-info .author {
+	font: italic bold 12px/normal Georgia; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+.nav-stuff {
+	padding: 20px 0px;
+}
+.nav-stuff .bt-nav-stuff {
+	background: url("/i/new/thread/bt-next-prev.png") no-repeat 0px 0px; font: bold 12px/20px Arial; margin: 0px auto; padding: 5px 0px 0px; width: 280px; height: 25px; text-align: center; color: rgb(8, 51, 95); display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.nav-stuff .bt-nav-stuff:hover {
+	color: rgb(255, 0, 0);
+}
+.nav-stuff .bt-nav-stuff em.up {
+	background: url("/i/new/thread/bg-up-down.gif") no-repeat right -4px; padding: 0px 15px 0px 0px; font-style: normal;
+}
+.nav-stuff .bt-nav-stuff em.down {
+	background: url("/i/new/thread/bg-up-down.gif") no-repeat right -32px; padding: 0px 15px 0px 0px; font-style: normal;
+}
+.nav-stuff .bt-nav-stuff em.load {
+	padding: 10px 0px 0px; font-style: normal;
+}
+.viewMode {
+	margin: -3px 10px -4px -1px; padding-left: 2px; float: left; position: relative; z-index: 3; cursor: pointer;
+}
+.viewMode .label {
+	background: url("/i/comment/bg-viewMode.gif") no-repeat 100% -21px; padding: 0px 17px 0px 4px; color: rgb(8, 51, 95); line-height: 22px; font-size: 11px; display: block; cursor: pointer; -moz-user-select: none;
+}
+.viewMode.ban .label {
+	background-position: 100% -23px; font: 9px/15px Arial; text-transform: uppercase; padding-top: 3px; font-size-adjust: none; font-stretch: normal;
+}
+.viewMode form {
+	display: none;
+}
+.hover-ban form {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px 0px 0px 70px; padding: 0px; display: block !important; position: absolute;
+}
+.viewMode form ul {
+	background: 0px 0px rgb(255, 255, 255); margin: 0px; padding: 6px 8px 2px 0px; border: 1px solid rgb(0, 0, 0); border-image: none; list-style-type: none; cursor: default;
+}
+.viewMode form ul li {
+	background: 0px 0px; margin: 0px 0px 5px; padding: 0px; color: rgb(0, 0, 0); line-height: 13px; clear: left; font-size: 11px; display: block; list-style-type: none; list-style-image: none; white-space: nowrap; cursor: default;
+}
+.viewMode form ul li dl {
+	margin: 8px 0px 0px 16px;
+}
+.viewMode form ul li dt {
+	margin: 3px -100% 2px 0px; font-weight: bold; float: left;
+}
+.viewMode form ul li dd {
+	margin: 0px 0px 5px 55px; text-align: left; position: relative;
+}
+.viewMode form ul li dd.who input {
+	width: 185px;
+}
+.viewMode form ul li dd.where {
+	height: 20px;
+}
+.viewMode li dd.days {
+	margin-left: 75px;
+}
+.viewMode li dd.days input {
+	width: 4ex;
+}
+.viewMode li dd label {
+	margin-right: 8px; position: relative;
+}
+.viewMode li label input {
+	margin: 0px 3px 0px 0px; top: 3px; position: relative;
+}
+.viewMode li button {
+	font: 11px/normal Arial; margin: 3px 0px 0px 16px; padding: 0px 3px; font-size-adjust: none; font-stretch: normal;
+}
+.viewMode form.banForm-user ul {
+	padding: 6px 16px 11px 0px; min-width: 203px;
+}
+.viewMode form.banForm-user ul li dd.where {
+	width: 65px; height: auto; margin-left: 85px;
+}
+.viewMode form.banForm-user .bf_margin {
+	margin-top: 13px;
+}
+.viewMode form.banForm-user li dd.days {
+	margin-left: 85px;
+}
+.viewMode form.banForm-user li dd.days input {
+	margin-top: 3px;
+}
+.stuff-comments form.forHeroLevel1 {
+	margin-left: 100px;
+}
+.stuff-comments form.forHeroLevel2 {
+	margin-left: 125px;
+}
+.stuff-comments form.forHeroLevel3 {
+	margin-left: 150px;
+}
+.stuff-comments form.forHeroLevel4 {
+	margin-left: 175px;
+}
+.stuff-comments form.forHeroLevel5 {
+	margin-left: 200px;
+}
+.stuff-comments form {
+	background: rgb(227, 227, 227); border: 1px solid rgb(181, 181, 181); border-image: none; margin-bottom: 3px; display: none; position: relative; z-index: 999998;
+}
+.stuff-comments form .formWrap {
+	position: relative;
+}
+.stuff-comments .avatar img {
+	width: 80px; height: 80px; display: block; position: relative;
+}
+.stuff-comments form .content {
+	margin-left: 100px;
+}
+.stuff-comments form h3 {
+	font: italic bold 14px/16px Georgia; margin: 0px 0px 8px; font-size-adjust: none; font-stretch: normal;
+}
+.stuff-comments form .subject {
+	margin: 0px; width: 100%; overflow: hidden; display: block; position: relative; -ms-zoom: 1;
+}
+.stuff-comments form .textarea {
+	margin: 0px; width: 100%; overflow: hidden; display: block; position: relative; -ms-zoom: 1;
+}
+.stuff-comments form .subject label {
+	left: 8px; top: 5px; color: rgb(137, 137, 137); line-height: 14px; font-size: 12px; position: absolute; cursor: text;
+}
+.stuff-comments form .textarea label {
+	left: 8px; top: 5px; color: rgb(137, 137, 137); line-height: 14px; font-size: 12px; position: absolute; cursor: text;
+}
+.stuff-comments form .subject label.hidden {
+	display: none;
+}
+.stuff-comments form .textarea label.hidden {
+	display: none;
+}
+.stuff-comments form .subject label.partial {
+	color: rgb(197, 197, 197);
+}
+.stuff-comments form .textarea label.partial {
+	color: rgb(197, 197, 197);
+}
+.stuff-comments form .textarea label {
+	left: 9px; top: 36px;
+}
+.mobileSafari .stuff-comments form .subject label {
+	display: none !important;
+}
+.mobileSafari .stuff-comments form .textarea label {
+	display: none !important;
+}
+.stuff-comments form .subject input {
+	padding: 4px 6px; border: currentColor; border-image: none; width: 100%; line-height: 14px; font-size: 12px;
+}
+.stuff-comments form .textarea {
+	padding: 0px; border: currentColor; border-image: none;
+}
+.stuff-comments form .fromPerson {
+	margin-top: 8px; float: left; position: relative; z-index: 99;
+}
+.stuff-comments form .fromPerson label {
+	color: rgb(0, 0, 0); line-height: 20px; font-size: 11px; font-weight: bold; margin-right: 5px; display: block;
+}
+.stuff-comments form .cc .list a {
+	height: 1em;
+}
+.stuff-comments form .fromPerson select {
+	font-size: 11px; font-weight: normal;
+}
+.stuff-comments form .fromPerson input {
+	font-size: 11px; font-weight: normal;
+}
+.comment-it form {
+	margin: 0px; border-right-color: currentColor !important; border-left-color: currentColor !important; border-right-width: medium !important; border-left-width: medium !important; border-right-style: none !important; border-left-style: none !important;
+}
+body.opera .stuff-comments form.level1 {
+	clear: left;
+}
+.stuff-comments form.reply {
+	margin-top: -4px;
+}
+.stuff-comments form .close {
+	position: absolute;
+}
+.stuff-comments form.edit .close {
+	display: block;
+}
+.stuff-comments form.reply .close {
+	display: block;
+}
+.stuff-comments form .textarea {
+	margin-bottom: 7px;
+}
+.stuff-comments form .cc {
+	background: rgb(235, 235, 235); padding: 3px 10px 4px; border: 1px solid rgb(204, 204, 204); border-image: none; position: relative;
+}
+body.webkit .stuff-comments form .cc {
+	padding: 4px 10px 3px;
+}
+.stuff-comments form .cc label {
+	position: absolute;
+}
+.stuff-comments form .cc .ccIcon {
+	background: url("/i/comment/bg-cc.png") no-repeat 0px 0px; padding: 0px 16px 0px 26px; left: -57px; top: 1px; color: rgb(255, 255, 255); line-height: 22px; font-size: 11px; font-weight: bold; cursor: pointer;
+}
+.stuff-comments form .cc .list i {
+	color: rgb(145, 145, 145); font-style: italic;
+}
+.stuff-comments form .cc a {
+	color: rgb(0, 0, 0);
+}
+.stuff-comments form .cc i {
+	font-style: normal;
+}
+.stuff-comments form .cc a:hover {
+	color: rgb(255, 0, 0) !important; text-decoration: line-through;
+}
+.stuff-comments form .cc a.help {
+	left: -50px; top: 26px; color: rgb(8, 51, 95); line-height: 12px; font-size: 10px; display: none; position: absolute;
+}
+.stuff-comments form .cc a.help:hover {
+	text-decoration: none;
+}
+.stuff-comments form .viewMode {
+	padding-left: 2px; margin-right: 6px; float: right; display: none; position: relative; cursor: pointer;
+}
+.stuff-comments form.level1 .viewMode {
+	display: block;
+}
+.stuff-comments form.reply .viewMode {
+	display: none;
+}
+.stuff-comments form .viewMode span {
+	background: url("/i/comment/bg-viewMode.gif") no-repeat 100% -21px; padding: 0px 17px 0px 4px; color: rgb(0, 0, 0) !important; line-height: 22px; font-size: 11px; display: block; cursor: pointer;
+}
+.stuff-comments form .viewMode.hover {
+	background: url("/i/comment/bg-viewMode.gif") no-repeat 0px 0px;
+}
+.stuff-comments form .viewMode.hover span {
+	background-position: 100% 0px;
+}
+.stuff-comments form .viewMode ul {
+	background: rgb(255, 255, 255); margin: -1px 0px 0px; padding: 6px 8px 2px; border: 1px solid rgb(0, 0, 0); border-image: none; left: 0px; display: none; list-style-type: none; position: absolute;
+}
+.stuff-comments form .viewMode.hover ul {
+	display: block; z-index: 99999;
+}
+.stuff-comments form .viewMode ul li {
+	background: none; margin: 0px 0px 5px; padding: 0px; color: rgb(8, 51, 95); line-height: 14px; font-size: 11px; display: block; list-style-type: none; list-style-image: none; white-space: nowrap; cursor: pointer;
+}
+.stuff-comments form .viewMode ul li:hover {
+	color: rgb(255, 0, 0);
+}
+.stuff-comments form .viewMode ul li.hover {
+	color: rgb(255, 0, 0);
+}
+.formWrap .wrapper-form-comment {
+	background: rgb(215, 215, 215); padding: 14px 17px 13px; border: 1px solid rgb(193, 193, 193); border-image: none; position: relative;
+}
+.formWrap .wrapper-form-comment label {
+	font-family: arial;
+}
+.text-comment-time {
+	font: italic 10px/15px Arial; color: rgb(119, 119, 119); font-size-adjust: none; font-stretch: normal;
+}
+.link {
+	font: 12px/15px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.wrapper-text h5 {
+	font: bold 14px/17px Arial; margin: 0px 0px 12px; padding: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+.wrapper-text p {
+	font: 13px/18px Arial; color: rgb(0, 0, 0); margin-bottom: 12px; font-size-adjust: none; font-stretch: normal;
+}
+.wrapper-text .cutted dt {
+	display: none;
+}
+.wrapper-text .cutted dd {
+	display: none;
+}
+.wrapper-text .cutted dt {
+	background: url("/i/i-pageBlockArrowTopDownW.png") no-repeat 0px 2px; margin: 7px 0px; color: rgb(104, 102, 103); line-height: 15px; padding-left: 20px; font-size: 12px; font-weight: bold; cursor: pointer;
+}
+.wrapper-text .cutted dt.title {
+	background: url("/i/i-pageBlockArrowW.png") no-repeat 2px 2px; display: block;
+}
+.wrapper-text .cutted dd {
+	padding-left: 20px;
+}
+.wrapper-text .cutted-visible dt {
+	display: block;
+}
+.wrapper-text .cutted-visible dd {
+	display: block;
+}
+.wrapper-text .cutted-visible dt.title {
+	background: url("/i/i-pageBlockArrowTopDownW.png") no-repeat 0px -27px;
+}
+.comment-management a {
+	font: 9px/15px Arial; color: rgb(8, 51, 95); text-transform: uppercase; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.heroes {
+	width: 100%; padding-bottom: 16px; margin-bottom: 10px; position: relative;
+}
+.heroes .hContent {
+	padding: 12px; border: 2px solid rgb(213, 0, 2); border-image: none;
+}
+.heroes .arrow {
+	background: url("/i/i-pageBodyHeroesArrow.png"); margin: -2px 0px 0px -8px; left: 50%; width: 16px; height: 18px; line-height: 0; overflow: hidden; font-size: 0px; position: absolute;
+}
+.heroes .centered {
+	width: auto; height: 80px; vertical-align: middle; display: table-cell;
+}
+.heroes.long .centered {
+	height: 163px;
+}
+.heroes p {
+	margin: 0px; padding: 0px 45px; width: auto; text-align: left; line-height: 21px; font-size: 18px;
+}
+.heroes p a.userInSubject {
+	color: rgb(201, 0, 0); font-family: Georgia; font-style: italic; font-weight: normal;
+}
+.wrapper-text img {
+	max-width: 100%;
+}
+.laquo {
+	margin: 0px 4px 0px 0px; top: 3px; width: 12px !important; height: 12px; float: left; position: relative;
+}
+.raquo {
+	margin: 0px 0px 0px 4px; width: 12px !important; height: 12px; position: relative;
+}
+.text-comment .meta-comment a:hover {
+	color: rgb(51, 51, 51);
+}
+.layoutColumnLeft .blog {
+	border: 1px solid rgb(199, 199, 199); border-image: none;
+}
+.comment-it {
+	margin: 0px; padding: 0px;
+}
+.comment-it dl {
+	margin: 40px 0px 0px 40px; overflow: hidden; position: relative;
+}
+.comment-it dl dd {
+	background: url("/i/new/thread/bg-avatar.jpg") no-repeat 0px 0px; margin: 0px; padding: 0px; width: 40px; height: 41px; float: left; position: relative;
+}
+.comment-it dl dd img {
+	margin: 2px 0px 0px 2px; padding: 0px; width: 36px; height: 36px;
+}
+.comment-it dl dt {
+	background: url("/i/new/thread/bt-comment.png") no-repeat 0px 0px; padding: 6px 0px 0px 15px; top: 5px; width: 141px; height: 27px; overflow: hidden; float: left; position: relative;
+}
+.entryBody .comment-it dl dt {
+	padding-top: 4px;
+}
+.comment-it dl dt a {
+	font: bold 11px/17px Arial; margin: 0px; padding: 0px 20px 0px 0px; height: 11px; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.comment-it dl dt a:hover {
+	color: rgb(255, 0, 0);
+}
+.comment-it dl dt a:visited {
+	color: rgb(8, 51, 95);
+}
+.group.hide .comment-content {
+	display: none;
+}
+.comment-item .addComment {
+	margin: -1px 1px 0px 42px;
+}
+.level-1 .addComment {
+	margin: -1px 1px 0px 88px;
+}
+.short .wrapper-content-comment {
+	cursor: pointer;
+}
+.level-1_show .wrapper-content-comment {
+	cursor: default;
+}
+sub-level_show .wrapper-content-comment {
+	cursor: default;
+}
+.comment-it {
+	margin: 20px 0px 0px;
+}
+.comment-item .addComment {
+	background: none; margin: -1px 1px 10px -1px; border: currentColor; border-image: none;
+}
+.comment-item .formWrap .avatar {
+	background: url("/i/new/thread/comment-form/bg-avatar-samll.png") no-repeat 0px 0px; left: 130px; top: 3px; width: 43px; height: 41px; overflow: hidden; position: absolute; z-index: 99;
+}
+.level-1 .formWrap .avatar {
+	background: url("/i/new/thread/comment-form/bg-avatar-samll.png") no-repeat 0px 0px; left: 176px; top: 3px; width: 43px; height: 41px; overflow: hidden; position: absolute; z-index: 99;
+}
+.comment-item .addComment .formWrap .avatar img {
+	width: 36px; height: 36px;
+}
+.z-ind {
+	z-index: 99999 !important;
+}
+.repost-thread-list a:hover {
+	color: rgb(255, 0, 0) !important;
+}
+.bigImg {
+	max-width: 100%;
+}
+.level-1 dl.video {
+	overflow: hidden !important; position: relative; z-index: 99 !important;
+}
+.edit {
+	z-index: 81;
+}
+#confirmWindow {
+	z-index: 999999;
+}
+.subscribePopupBlock.hidden {
+	display: none;
+}
+.subscribePopupBlock {
+	left: 50%; top: 120px; margin-left: -353px; position: absolute; z-index: 10001;
+}
+.subscribePopupBlock .subscribePopup {
+	background: url("/i/login_subscriber_pupup.png") no-repeat left -13px; width: 445px; padding-top: 13px;
+}
+.subscribePopupBlock .subscribePopup img {
+	margin: -21px 13px; float: right; position: relative; cursor: pointer;
+}
+.subscribePopupBlock .subscribePopup div.list {
+	padding: 21px 0px 11px; overflow: hidden; background-color: rgb(41, 41, 41);
+}
+* html .subscribePopupBlock .subscribePopup div.list {
+	-ms-zoom: 1;
+}
+.subscribePopupBlock .subscribePopup .blr {
+	background: url("/i/login_subscriber_pupup.png") no-repeat left top; height: 13px; font-size: 1px;
+}
+.subscribePopupBlock .subscribePopup div.list span {
+	font: italic 18px/normal Georgia; color: rgb(255, 255, 255); margin-left: 37px; font-size-adjust: none; font-stretch: normal;
+}
+.subscribePopupBlock .subscribePopup div.list .statusTitle {
+	background: url("/i/new/comment/i-exclamation_mark-s.png") no-repeat 37px 0px; margin: -21px 40px 24px 0px; color: rgb(255, 255, 255); line-height: 25px; padding-left: 72px; font-size: 14px; font-weight: bold;
+}
+.subscribePopupBlock .subscribePopup div.list span.title {
+	margin: 0px 37px 12px; display: block;
+}
+.subscribePopupBlock .subscribePopup div.list ul {
+	margin: 27px 37px 0px; padding-left: 0px;
+}
+.subscribePopupBlock .subscribePopup div.list li {
+	background: url("/i/i-redmarkerGray.gif") no-repeat 0px 6px; font: 13px/14px Arial; color: rgb(255, 255, 255); padding-left: 12px; margin-bottom: 6px; font-size-adjust: none; font-stretch: normal;
+}
+.subscribePopupBlock .subscribePopup div.list p {
+	font: 13px/14px Arial; margin: 0px 37px 10px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.subscribePopupBlock .subscribePopup div.list p a {
+	color: rgb(213, 0, 2);
+}
+div.error {
+	margin: 2px 9px 0px 0px; color: rgb(219, 23, 0); font-family: Arial, sans-serif; font-size: 12px; float: right;
+}
+.text-comment .wrapper-text a {
+	color: rgb(8, 51, 95); font-weight: bold;
+}

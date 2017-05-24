@@ -1,0 +1,219 @@
+.g-messageEmpty {
+	font: 22px/normal Georgia; padding: 34px 10px 0px 5px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+a.g-extend {
+	background: url("/i/new/person/bt-extend.jpg") no-repeat 0px 0px; font: bold 11px/22px Arial; width: 88px; height: 22px; text-align: center; color: rgb(8, 51, 95); display: block; font-size-adjust: none; font-stretch: normal;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: red;
+}
+.division-profile .entryList2 .item p.author-storage-entry a {
+	color: black; font-weight: normal;
+}
+.division-profile .entryList2 .item .lead a {
+	color: black; font-weight: normal;
+}
+.division-profile .person-blog .entryList2 .item a:hover span.userInSubject {
+	color: red !important;
+}
+.division-profile .entryList2 .item p.author-storage-entry a:hover {
+	color: red !important;
+}
+.content-profile-you-read a:hover span.userInSubject {
+	color: red !important;
+}
+.h-layoutNarrow-profile .info a {
+	color: rgb(8, 51, 95); font-weight: bold; position: relative; z-index: 2;
+}
+.h-layoutNarrow-profile .info span.underline {
+	text-decoration: underline;
+}
+.layoutColumnLeft {
+	width: 730px; float: left; position: relative;
+}
+.layoutColumnWrapper .clear {
+	width: 100%; height: 0px; overflow: hidden; clear: both; font-size: 0px; display: block; visibility: hidden;
+}
+.profile-company-foto {
+	margin-bottom: 40px;
+}
+.profile-company-foto img {
+	margin: 0px; width: 649px; height: 208px;
+}
+.about-partner {
+	margin-bottom: 40px;
+}
+.about-partner p {
+	font: 13px/24px Georgia; color: rgb(54, 54, 54); font-size-adjust: none; font-stretch: normal;
+}
+.description-partner p {
+	font: 12px/19px Arial; color: rgb(40, 40, 40); font-size-adjust: none; font-stretch: normal;
+}
+.description-partner p a {
+	font: 12px/19px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners {
+	background: rgb(60, 61, 60); width: 240px;
+}
+.wrapper-profileNewsPartners {
+	margin: 0px 14px; padding: 14px 0px 18px;
+}
+.profileNewsPartners .title-profileNewsPartners {
+	font: bold 15px/18px Arial; padding: 0px 0px 12px; color: rgb(255, 255, 255); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners .date-profileNewsPartners {
+	font: bold 14px/17px Arial; padding: 0px 0px 12px; color: rgb(246, 211, 59); font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners .title-item-profileNewsPartners {
+	font: bold 16px/18px Arial; padding: 0px 0px 12px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners .title-item-profileNewsPartners .userInSubject {
+	font: bold 16px/18px Arial !important; color: rgb(255, 255, 255) !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.profileNewsPartners .text-profileNewsPartners {
+	font: 13px/18px Arial; padding: 0px 0px 12px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners .read-all-profileNewsPartners {
+	font: bold 13px/18px Arial; padding: 0px 0px 24px; color: rgb(166, 186, 206); font-size-adjust: none; font-stretch: normal;
+}
+.profileNewsPartners .footer-profileNewsPartners {
+	background: url("/i/new/benefit/bg-footer-profileNewsPartners.gif") repeat-x 0px 0px; padding: 14px 14px 0px; height: 32px;
+}
+.profileNewsPartners .all-profileNewsPartners {
+	background: url("/i/new/benefit/ic-all-profileNewsPartners.gif") no-repeat 160px 7px; font: bold 13px/18px Arial; padding: 0px 10px 0px 0px; width: 170px; color: rgb(166, 186, 206); display: block; font-size-adjust: none; font-stretch: normal;
+}
+.wrapper-img-profileNewsPartners {
+	background: rgb(255, 255, 255); margin: 0px 0px 16px; width: 212px; height: 110px; text-align: center;
+}
+.wrapper-img-profileNewsPartners img {
+	margin: 14px 0px 0px; width: 80px; height: 80px;
+}
+.wrapper-NewsPartners {
+	margin: 0px 0px 20px;
+}
+a.more-all {
+	font: bold 9px/15px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+.person-feed a.more-all {
+	font: bold 12px/15px Arial; font-size-adjust: none; font-stretch: normal;
+}
+.person-thematic a.more-all {
+	font: bold 12px/15px Arial; font-size-adjust: none; font-stretch: normal;
+}
+.person-feed-icon a:hover span {
+	color: rgb(181, 0, 5); cursor: pointer;
+}
+.print {
+	float: right;
+}
+.h-layoutNarrow-profile .manage {
+	background-position: -2px -79px; width: 13px; height: 12px; right: 2px; bottom: 5px; position: absolute;
+}
+.h-layoutNarrow-profile .manage:hover {
+	background-position: -15px -79px;
+}
+.h-layoutNarrow-profile .ic-arrow-com {
+	background-position: -1px -54px; margin: 0px 4px; top: 2px; width: 11px; height: 11px; display: inline-block;
+}
+.h-layoutNarrow-profile .arrow-black {
+	background-position: -2px -92px; margin: 0px 4px; top: 3px; width: 11px; height: 11px; display: inline-block;
+}
+.h-layoutNarrow-profile .babble {
+	background-position: -16px 0px; font: bold 11px/normal Arial; margin: 0px 4px 0px 0px; top: -1px; width: 23px; height: 15px; text-align: center; color: rgb(255, 255, 255); display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+.h-layoutNarrow-profile .circle {
+	background-position: -16px -17px; margin: 0px 4px 0px 0px; left: -5px; top: -5px; width: 10px; height: 11px; position: absolute;
+}
+.icon.comments {
+	background-position: -40px 2px; font: 12px/normal Georgia; margin: 0px 4px 0px 0px; padding: 0px 0px 0px 13px; top: -1px; height: 16px; text-align: right; color: rgb(127, 127, 127); display: inline-block; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.person-feed-commentators {
+	clear: left; display: block;
+}
+.h-layoutNarrow-profile .icon a {
+	color: rgb(127, 127, 127);
+}
+.comments-person-thematic {
+	width: 120px; margin-top: 5px; float: left;
+}
+.h-layoutNarrow-profile .no-comments {
+	background-position: -38px -88px; font: 12px/normal Georgia; margin: 0px 4px 0px 0px; padding: 0px 0px 0px 20px; top: -1px; height: 16px; text-align: right; color: rgb(127, 127, 127); display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+.h-layoutNarrow-profile .no-people {
+	background-position: -38px -72px; font: 12px/normal Georgia; margin: 0px 4px 0px 0px; padding: 0px 0px 0px 20px; top: -1px; height: 16px; text-align: right; color: rgb(127, 127, 127); display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+.h-layoutNarrow-profile .people {
+	background-position: -40px -26px; font: 12px/normal Georgia; margin: 0px 4px 0px 0px; padding: 0px 0px 0px 13px; top: -1px; height: 16px; text-align: right; color: rgb(127, 127, 127); display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+.h-layoutNarrow-profile .marker {
+	background-position: -1px -54px; margin: 0px 4px 0px 0px; width: 10px; height: 8px; display: inline-block;
+}
+body div.layout .layoutColumnWrapper .h-layoutNarrow-profile a.more {
+	font: bold 11px/15px Arial; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+body div.layout .layoutColumnWrapper div.storageItem__lead a.more {
+	font-size: 12px;
+}
+body div.layout .layoutColumnWrapper .person-feed a.more {
+	font: bold 12px/15px Arial; margin: 0px; color: rgb(8, 51, 95); font-size-adjust: none; font-stretch: normal;
+}
+body div.layout .layoutColumnWrapper div.lead a:hover {
+	color: red;
+}
+.tabPaging .prev {
+	border: currentColor; border-image: none;
+}
+.tabPaging .next {
+	border: currentColor; border-image: none;
+}
+.bigImg {
+	max-width: 100%;
+}
+.item .button_link {
+	float: right;
+}
+a.button_link {
+	margin: 0px 2px; padding: 0px; width: auto; font-size: 12px; display: inline-block;
+}
+a.button_link span {
+	margin: 0px; padding: 3px 15px 0px; height: 19px; color: rgb(22, 68, 104); font-size: 12px; display: block;
+}
+a.submit {
+	background: url("/i/messages/bg_button.png") no-repeat right -212px;
+}
+a.submit span {
+	background: url("/i/messages/bg_button.png") no-repeat 0px -234px; color: rgb(255, 255, 255);
+}
+.mainLayout .content.wide-left {
+	width: 649px !important;
+}
+.mL-near-header .content.wide-left .auth-wrapper .bottom {
+	width: 649px !important;
+}
+.mL-near-header .content.wide-left .logo {
+	display: none;
+}
+.division-profile .h-layoutNarrow {
+	z-index: 1;
+}
+#blogEntryForm textarea {
+	width: 605px; height: 500px;
+}
+.issue-search-title {
+	margin: 27px 0px 0px;
+}
+.issue-search-title .issue-search-back {
+	height: 27px; line-height: 27px; letter-spacing: -0.04em; font-size: 16px; font-weight: bold; margin-bottom: 14px;
+}
+.issue-search-title h1 {
+	line-height: 22px; letter-spacing: -0.02em; font-size: 30px; float: left;
+}
+.issue-search-title .issue-search-back a {
+	background: url("/i/new/magazine/i-controls-next.png") no-repeat; padding-left: 35px; float: left;
+}

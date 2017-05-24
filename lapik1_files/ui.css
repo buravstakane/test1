@@ -1,0 +1,822 @@
+.pollPop .row {
+	overflow: visible; position: relative;
+}
+.pollPop .row::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: "";
+}
+.pollPop .poll-radios {
+	padding-left: 10px;
+}
+.pollPop .poll-radios label {
+	margin: 3px 0px 0px; vertical-align: middle; cursor: pointer;
+}
+.pollPop .poll-radios input {
+	margin: 3px 0px 0px; vertical-align: middle; cursor: pointer;
+}
+.pollPop .poll-radios input {
+	padding: 0px; width: 14px; height: 14px; overflow: hidden; margin-right: 5px; background-color: transparent;
+}
+.pollPop .poll-radios label {
+	line-height: 14px; display: inline-block;
+}
+.pollPop .poll-quest {
+	overflow: auto; margin-right: 3px; position: relative; max-height: 187px;
+}
+.pollPop .poll-quest div.o {
+	margin: 3px 0px 0px 10px;
+}
+.pollPop .poll-quest label {
+	background: url("/i/tinymce/bg-poll-type.png") no-repeat; margin: 6px 0px 0px 10px; width: 12px; height: 12px; clear: both; float: left;
+}
+.pollPop .multi-quest label {
+	background-position: 0px -12px;
+}
+.pollPop .opb input {
+	margin: 0px; height: 14px; float: left;
+}
+.pollPop .poll-quest input {
+	width: 228px;
+}
+.pollPop .poll-quest select {
+	border: 0px currentColor; border-image: none; width: 228px; height: 18px; background-color: rgb(248, 248, 248);
+}
+.pollPop label.error {
+	color: rgb(255, 0, 0); padding-left: 30px;
+}
+.pollPop .poll-subject label.error {
+	right: 2px; bottom: -15px; position: absolute;
+}
+#poll_new_q {
+	margin: 0px 1px 0px 0px; float: right;
+}
+.polltabs {
+	visibility: hidden; position: relative;
+}
+.polltabs::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: "";
+}
+.polltabs .tabcontrol {
+	background: rgb(31, 31, 31); border-width: 0px 1px; border-style: solid; border-color: rgb(102, 102, 102); border-image: none; left: 10px; top: 1px; height: 20px; text-align: center; color: rgb(221, 221, 221); line-height: 20px; margin-right: -1px; float: left; display: inline; white-space: nowrap; position: relative; z-index: 2; cursor: pointer;
+}
+.polltabs .tabcontrol b {
+	background: url("/i/tinymce/bg-personInfo-tab.png") repeat-x rgb(31, 31, 31); padding: 0px 12px; top: -1px !important; height: 20px; border-top-color: rgb(102, 102, 102); border-top-width: 1px; border-top-style: solid; display: block; position: relative;
+}
+.polltabs dt.selected {
+	border-color: rgb(134, 134, 134); top: 0px; height: 22px; color: rgb(255, 255, 255);
+}
+.polltabs dt.selected b {
+	border-color: rgb(134, 134, 134); top: 0px; height: 22px; color: rgb(255, 255, 255);
+}
+.polltabs dt.error b {
+	color: red;
+}
+.polltabs .tabcontent {
+	background: rgb(31, 31, 31); margin: 21px 0px 0px -100%; width: 100%; height: 220px; padding-top: 10px; border-top-color: rgb(134, 134, 134); border-top-width: 1px; border-top-style: solid; float: right; display: inline; visibility: hidden; position: relative; z-index: 0;
+}
+.polltabs dd.selected {
+	visibility: visible; z-index: 1;
+}
+.popupBallon.video #fileName {
+	font-weight: normal;
+}
+.popupBallon.video #fileSize {
+	color: rgb(156, 156, 156); font-size: 11px; margin-left: 14px;
+}
+.popupBallon.video .progressBar .outter {
+	background: url("/i/tinymce/bg-upload_progressbar.png") repeat-x 0px -15px; margin: 16px 0px 0px 14px; width: 290px; height: 14px; padding-bottom: 4px; position: relative;
+}
+.popupBallon.video .progressBar i {
+	margin-left: 14px;
+}
+.popupBallon.video .progressBar .outter .inner {
+	background: url("/i/tinymce/bg-upload_progressbar.png") repeat-x 0px 0px; width: 1px; height: 14px; position: absolute;
+}
+.popupBallon.video .progressBar i {
+	color: rgb(255, 255, 255); font-size: 11px; font-weight: bold;
+}
+.popupBallon.video .progressBar .controll {
+	margin-top: 11px; margin-left: 4px;
+}
+.popupBallon.video .progressBar .controll .btn {
+	margin: 0px auto; width: 77px;
+}
+.popupBallon.video .progressBarError strong {
+	text-align: center; padding-top: 15px; font-size: 15px;
+}
+.popupBallon.video .progressBarDone strong {
+	text-align: center; padding-top: 15px; font-size: 15px;
+}
+.popupBallon.video .progressBarError strong {
+	color: rgb(255, 0, 0);
+}
+.popupBallon.video .progressBarError i {
+	text-align: center; color: rgb(156, 156, 156); padding-bottom: 20px;
+}
+.popupBallon.video .progressBarDone i {
+	text-align: center; color: rgb(156, 156, 156); padding-bottom: 20px;
+}
+.popupBallon.video strong.icon {
+	background: url("/i/tinymce/i-video_title.gif") no-repeat; padding-left: 24px; font-size: 13px; margin-left: 13px;
+}
+.popupBallon.video label {
+	color: rgb(255, 255, 255); padding-bottom: 4px; font-size: 11px; font-weight: bold;
+}
+.popupBallon.video .row {
+	margin-bottom: 7px;
+}
+.popupBallon.video input {
+	border: 1px solid rgb(248, 248, 248); border-image: none;
+}
+.popupBallon.video i {
+	color: rgb(165, 165, 165); font-size: 11px;
+}
+.snob2Skin table {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin tbody {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin a {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin img {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin tr {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin div {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin td {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin iframe {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin span {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin * {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin .mceText {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; text-align: left; color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: nowrap; border-collapse: separate; cursor: default;
+}
+.snob2Skin a:hover {
+	color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; cursor: default;
+}
+.snob2Skin a:link {
+	color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; cursor: default;
+}
+.snob2Skin a:visited {
+	color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; cursor: default;
+}
+.snob2Skin a:active {
+	color: rgb(0, 0, 0); font-weight: normal; text-decoration: none; cursor: default;
+}
+.snob2Skin table td {
+	vertical-align: middle;
+}
+.snob2Skin iframe {
+	background: rgb(243, 243, 243); display: block; cursor: text;
+}
+.snob2Skin .mceToolbarRow1 {
+	background: none;
+}
+.snob2Skin .mceLeft {
+	text-align: left;
+}
+.snob2Skin .mceRight {
+	text-align: right;
+}
+.snob2Skin .mceExternalToolbar {
+	border-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(150, 150, 150) rgb(150, 150, 150) currentColor; border-image: none; display: none; position: absolute;
+}
+.snob2Skin .mceExternalToolbar td.mceToolbar {
+	padding-right: 13px;
+}
+.snob2Skin .mceExternalClose {
+	background: url("/vendor/tiny_mce/3.5.5/themes/advanced/img/icons.gif") -820px 0px; top: 3px; width: 7px; height: 7px; right: 3px; position: absolute;
+}
+.snob2Skin table.mceLayout tr.mceFirst td {
+	padding: 10px 0px;
+}
+.snob2Skin table.mceToolbar {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.snob2Skin tr.mceFirst .mceToolbar tr td {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.snob2Skin tr.mceLast .mceToolbar tr td {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.snob2Skin td.mceToolbar {
+	padding-top: 1px; vertical-align: top;
+}
+.snob2Skin .mceIframeContainer {
+	border-width: 1px 1px 0px; border-style: solid; border-color: rgb(187, 187, 187); background-color: rgb(243, 243, 243);
+}
+.snob2Skin .mceStatusbar {
+	height: 20px; color: rgb(0, 0, 0); line-height: 16px; overflow: visible; font-family: "MS Sans Serif", sans-serif, Verdana, Arial; font-size: 9pt; display: block;
+}
+.snob2Skin .mceStatusbar div {
+	margin: 2px; float: left;
+}
+.snob2Skin .mceStatusbar a.mceResize {
+	background: url("/vendor/tiny_mce/3.5.5/themes/advanced/img/icons.gif") -800px 0px; width: 20px; height: 20px; float: right; display: block; cursor: se-resize;
+}
+.snob2Skin .mceStatusbar a:hover {
+	text-decoration: underline;
+}
+.snob2Skin span.mceIcon {
+	width: 27px; height: 27px; display: block;
+}
+.snob2Skin img.mceIcon {
+	width: 27px; height: 27px; display: block;
+}
+.snob2Skin td.mceCenter {
+	text-align: center;
+}
+.snob2Skin td.mceCenter table {
+	margin: 0px auto; text-align: left;
+}
+.snob2Skin td.mceRight table {
+	margin: 0px 0px 0px auto;
+}
+table.mceLayout {
+	width: 100% !important;
+}
+.snob2Skin .mceButton {
+	width: 26px; height: 27px; display: block;
+}
+.snob2Skin .mceButtonDisabled .mceIcon {
+	opacity: 0.3;
+}
+.snob2Skin .mceSeparator {
+	margin: 2px 2px 0px 4px; width: 2px; height: 20px; display: block;
+}
+.snob2Skin .mceListBox {
+	direction: ltr;
+}
+.snob2Skin .mceListBox {
+	display: block;
+}
+.snob2Skin .mceListBox a {
+	display: block;
+}
+.snob2Skin .mceListBox .mceText {
+	background: rgb(255, 255, 255); border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(204, 204, 204) currentColor rgb(204, 204, 204) rgb(204, 204, 204); border-image: none; width: 70px; height: 20px; text-align: left; line-height: 20px; overflow: hidden; padding-left: 4px; font-family: Tahoma,Verdana,Arial,Helvetica; font-size: 11px;
+}
+.snob2Skin .mceListBox .mceOpen {
+	background: url("/vendor/tiny_mce/3.5.5/themes/advanced/img/icons.gif") -741px 0px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 9px; height: 20px; margin-right: 2px;
+}
+.snob2Skin table.mceListBoxEnabled:hover .mceText {
+	background: rgb(255, 255, 255); border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(162, 171, 192) currentColor rgb(162, 171, 192) rgb(162, 171, 192); border-image: none;
+}
+.snob2Skin .mceListBoxHover .mceText {
+	background: rgb(255, 255, 255); border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(162, 171, 192) currentColor rgb(162, 171, 192) rgb(162, 171, 192); border-image: none;
+}
+.snob2Skin .mceListBoxSelected .mceText {
+	background: rgb(255, 255, 255); border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(162, 171, 192) currentColor rgb(162, 171, 192) rgb(162, 171, 192); border-image: none;
+}
+.snob2Skin table.mceListBoxEnabled:hover .mceOpen {
+	border: 1px solid rgb(162, 171, 192); border-image: none; background-color: rgb(255, 255, 255);
+}
+.snob2Skin .mceListBoxHover .mceOpen {
+	border: 1px solid rgb(162, 171, 192); border-image: none; background-color: rgb(255, 255, 255);
+}
+.snob2Skin .mceListBoxSelected .mceOpen {
+	border: 1px solid rgb(162, 171, 192); border-image: none; background-color: rgb(255, 255, 255);
+}
+.snob2Skin .mceListBoxDisabled a.mceText {
+	color: gray; background-color: transparent;
+}
+.snob2Skin .mceListBoxMenu {
+	overflow: auto; -ms-overflow-x: hidden;
+}
+.snob2Skin .mceOldBoxModel .mceListBox .mceText {
+	height: 22px;
+}
+.snob2Skin .mceOldBoxModel .mceListBox .mceOpen {
+	width: 11px; height: 22px;
+}
+.snob2Skin select.mceNativeListBox {
+	background: rgb(240, 240, 238); border: 1px solid gray; border-image: none; font-family: "MS Sans Serif", sans-serif, Verdana, Arial; font-size: 7pt; margin-right: 2px;
+}
+.snob2Skin .mceSplitButton {
+	width: 26px; height: 27px; direction: ltr;
+}
+.snob2Skin .mceSplitButton a {
+	height: 27px; display: block;
+}
+.snob2Skin .mceSplitButton span {
+	height: 27px; display: block;
+}
+.snob2Skin .mceSplitButton a.mceAction {
+	width: 26px; position: relative;
+}
+.snob2Skin .mceSplitButton a.mceOpen {
+	margin-right: -27px;
+}
+.snob2Skin .mceSplitButton span.mceOpen {
+	width: 26px;
+}
+.snob2Skin .mceSplitButtonDisabled .mceAction {
+	opacity: 0.3;
+}
+.snob2Skin .mceSplitButtonDisabled span.mceOpen {
+	opacity: 0.3;
+}
+.snob2Skin .mceSplitButtonActive a.mceAction {
+	border: 1px solid rgb(10, 36, 106); border-image: none; background-color: rgb(194, 203, 224);
+}
+.snob2Skin .mceSplitButtonActive a.mceOpen {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.snob2Skin div.mceColorSplitMenu table {
+	background: rgb(255, 255, 255); border: 1px solid gray; border-image: none;
+}
+.snob2Skin .mceColorSplitMenu td {
+	padding: 2px;
+}
+.snob2Skin .mceColorSplitMenu a {
+	border: 1px solid rgb(128, 128, 128); border-image: none; width: 9px; height: 9px; overflow: hidden; display: block;
+}
+.snob2Skin .mceColorSplitMenu td.mceMoreColors {
+	padding: 1px 3px 1px 1px;
+}
+.snob2Skin .mceColorSplitMenu a.mceMoreColors {
+	border: 1px solid rgb(255, 255, 255); border-image: none; width: 100%; height: auto; text-align: center; line-height: 20px; font-family: Tahoma,Verdana,Arial,Helvetica; font-size: 11px;
+}
+.snob2Skin .mceColorSplitMenu a.mceMoreColors:hover {
+	border: 1px solid rgb(10, 36, 106); border-image: none; background-color: rgb(182, 189, 210);
+}
+.snob2Skin a.mceMoreColors:hover {
+	border: 1px solid rgb(10, 36, 106); border-image: none;
+}
+.snob2Skin .mceColorPreview {
+	background: rgb(154, 155, 154); width: 14px; height: 3px; bottom: 4px; overflow: hidden; margin-left: 6px; position: absolute;
+}
+.snob2Skin .mce_forecolor span.mceAction {
+	height: 27px; overflow: hidden;
+}
+.snob2Skin .mce_backcolor span.mceAction {
+	height: 27px; overflow: hidden;
+}
+.snob2Skin .mceMenu {
+	border: 1px solid rgb(212, 208, 200); border-image: none; left: 0px; top: 0px; position: absolute; z-index: 1000;
+}
+.snob2Skin .mceNoIcons span.mceIcon {
+	width: 0px;
+}
+.snob2Skin .mceNoIcons a .mceText {
+	padding-left: 10px;
+}
+.snob2Skin .mceMenu table {
+	background: rgb(255, 255, 255);
+}
+.snob2Skin .mceMenu a {
+	display: block;
+}
+.snob2Skin .mceMenu span {
+	display: block;
+}
+.snob2Skin .mceMenu {
+	display: block;
+}
+.snob2Skin .mceMenu td {
+	height: 20px;
+}
+.snob2Skin .mceMenu a {
+	padding: 3px 0px 4px; position: relative;
+}
+.snob2Skin .mceMenu .mceText {
+	margin: 0px; padding: 0px 25px; color: rgb(0, 0, 0); font-family: Tahoma,Verdana,Arial,Helvetica; display: block; position: relative; cursor: default;
+}
+.snob2Skin .mceMenu span.mceText {
+	font-size: 11px;
+}
+.snob2Skin .mceMenu .mcePreview {
+	font-size: 11px;
+}
+.snob2Skin .mceMenu pre.mceText {
+	font-family: Monospace;
+}
+.snob2Skin .mceMenu .mceIcon {
+	left: 0px; top: 0px; width: 22px; position: absolute;
+}
+.snob2Skin .mceMenu .mceMenuItemEnabled a:hover {
+	background-color: rgb(219, 236, 243);
+}
+.snob2Skin .mceMenu .mceMenuItemActive {
+	background-color: rgb(219, 236, 243);
+}
+.snob2Skin td.mceMenuItemSeparator {
+	background: rgb(221, 221, 221); height: 1px;
+}
+.snob2Skin .mceMenuItemTitle a {
+	background: rgb(238, 238, 238); border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(221, 221, 221); border-image: none;
+}
+.snob2Skin .mceMenuItemTitle span.mceText {
+	color: rgb(0, 0, 0); padding-left: 4px; font-weight: bold;
+}
+.snob2Skin .mceMenuItemDisabled .mceText {
+	color: rgb(136, 136, 136);
+}
+.snob2Skin .mceMenu span.mceMenuLine {
+	display: none;
+}
+.snob2Skin .mceBlocker {
+	background: rgb(255, 255, 255); left: 0px; top: 0px; position: absolute; z-index: 1000; opacity: 0.5;
+}
+.snob2Skin .mcePlaceHolder {
+	border: 1px dotted gray; border-image: none;
+}
+.snob2Skin .mce_formatPreview a {
+	font-size: 10px;
+}
+.snob2Skin .mce_address span.mceText {
+	font-style: italic;
+}
+.snob2Skin .mce_pre span.mceText {
+	font-family: monospace;
+}
+.snob2Skin .mce_h1 span.mceText {
+	font-size: 2em; font-weight: bolder;
+}
+.snob2Skin .mce_h2 span.mceText {
+	font-size: 1.5em; font-weight: bolder;
+}
+.snob2Skin .mce_h3 span.mceText {
+	font-size: 1.17em; font-weight: bolder;
+}
+.snob2Skin .mce_h4 span.mceText {
+	font-size: 1em; font-weight: bolder;
+}
+.snob2Skin .mce_h5 span.mceText {
+	font-size: 0.83em; font-weight: bolder;
+}
+.snob2Skin .mce_h6 span.mceText {
+	font-size: 0.75em; font-weight: bolder;
+}
+.snob2Skin span.mce_bold {
+	background-position: -57px 0px;
+}
+.snob2Skin span.mce_italic {
+	background-position: -83px 0px;
+}
+.snob2Skin span.mce_underline {
+	background-position: -109px 0px;
+}
+.snob2Skin span.mce_strikethrough {
+	background-position: -135px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_bold {
+	background-position: -57px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_bold {
+	background-position: -57px -27px;
+}
+.snob2Skin a.mceButtonActive span.mce_italic {
+	background-position: -83px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_italic {
+	background-position: -83px -27px;
+}
+.snob2Skin a.mceButtonActive span.mce_underline {
+	background-position: -109px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_underline {
+	background-position: -109px -27px;
+}
+.snob2Skin a.mceButtonActive span.mce_strikethrough {
+	background-position: -135px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_strikethrough {
+	background-position: -135px -27px;
+}
+.snob2Skin span.mce_undo {
+	background-position: 0px 0px;
+}
+.snob2Skin span.mce_redo {
+	background-position: -26px 0px;
+}
+.snob2Skin .mceButtonDisabled span.mce_undo {
+	background-position: 0px -54px; opacity: 1;
+}
+.snob2Skin .mceButtonDisabled span.mce_redo {
+	background-position: -26px -54px; opacity: 1;
+}
+.snob2Skin a.mceButtonActive span.mce_undo {
+	background-position: 0px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_undo {
+	background-position: 0px -27px;
+}
+.snob2Skin a.mceButtonActive span.mce_redo {
+	background-position: -26px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_redo {
+	background-position: -26px -27px;
+}
+.snob2Skin span.mce_link {
+	background-position: -225px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_link {
+	background-position: -225px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_link {
+	background-position: -225px -27px;
+}
+.snob2Skin span.mce_bullist {
+	background-position: -403px 0px;
+}
+.snob2Skin span.mce_numlist {
+	background-position: -429px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_bullist {
+	background-position: -403px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_bullist {
+	background-position: -403px -27px;
+}
+.snob2Skin a.mceButtonActive span.mce_numlist {
+	background-position: -429px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_numlist {
+	background-position: -429px -27px;
+}
+.snob2Skin span.mce_snobimg {
+	background-position: -256px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobimg {
+	background-position: -256px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobimg {
+	background-position: -256px -27px;
+}
+.snob2Skin span.mce_snobimggallery {
+	background-position: -500px 0px;
+}
+.snob2Skin a.mceButtonEnabled:hover span.mce_snobimggallery {
+	background-position: -500px -24px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobimggallery {
+	background-position: -500px -24px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobimggallery {
+	background-position: -500px -24px;
+}
+.snob2Skin span.mce_snobvideo {
+	background-position: -287px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobvideo {
+	background-position: -287px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobvideo {
+	background-position: -287px -27px;
+}
+.snob2Skin span.mce_snobcut {
+	background-position: -519px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobcut {
+	background-position: -519px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobcut {
+	background-position: -519px -27px;
+}
+.snob2Skin span.mce_justifyleft {
+	background-position: -319px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_justifyleft {
+	background-position: -319px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_justifyleft {
+	background-position: -319px -27px;
+}
+.snob2Skin span.mce_justifyright {
+	background-position: -371px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_justifyright {
+	background-position: -371px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_justifyright {
+	background-position: -371px -27px;
+}
+.snob2Skin span.mce_justifycenter {
+	background-position: -345px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_justifycenter {
+	background-position: -345px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_justifycenter {
+	background-position: -345px -27px;
+}
+.snob2Skin span.mce_snobbgcolor {
+	background-position: -193px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobbgcolor {
+	background-position: -193px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobbgcolor {
+	background-position: -193px -27px;
+}
+.snob2Skin span.mce_snobfgcolor {
+	background-position: -167px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobfgcolor {
+	background-position: -167px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobfgcolor {
+	background-position: -167px -27px;
+}
+.snob2Skin span.mce_snobuser {
+	background-position: -551px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobuser {
+	background-position: -551px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobuser {
+	background-position: -551px -27px;
+}
+.snob2Skin span.mce_snobembed {
+	background-position: -287px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_snobembed {
+	background-position: -287px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_snobembed {
+	background-position: -287px -27px;
+}
+.snob2Skin span.mce_indent {
+	background-position: -487px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_indent {
+	background-position: -487px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_indent {
+	background-position: -487px -27px;
+}
+.snob2Skin span.mce_outdent {
+	background-position: -461px 0px;
+}
+.snob2Skin a.mceButtonActive span.mce_outdent {
+	background-position: -461px -27px;
+}
+.snob2Skin a.mceButtonSelected span.mce_outdent {
+	background-position: -461px -27px;
+}
+.snob2Skin span.mce_advhr {
+	background-position: 0px -20px;
+}
+.snob2Skin span.mce_ltr {
+	background-position: -20px -20px;
+}
+.snob2Skin span.mce_rtl {
+	background-position: -40px -20px;
+}
+.snob2Skin span.mce_emotions {
+	background-position: -60px -20px;
+}
+.snob2Skin span.mce_fullpage {
+	background-position: -80px -20px;
+}
+.snob2Skin span.mce_fullscreen {
+	background-position: -100px -20px;
+}
+.snob2Skin span.mce_iespell {
+	background-position: -120px -20px;
+}
+.snob2Skin span.mce_insertdate {
+	background-position: -140px -20px;
+}
+.snob2Skin span.mce_inserttime {
+	background-position: -160px -20px;
+}
+.snob2Skin span.mce_absolute {
+	background-position: -180px -20px;
+}
+.snob2Skin span.mce_backward {
+	background-position: -200px -20px;
+}
+.snob2Skin span.mce_forward {
+	background-position: -220px -20px;
+}
+.snob2Skin span.mce_insert_layer {
+	background-position: -240px -20px;
+}
+.snob2Skin span.mce_insertlayer {
+	background-position: -260px -20px;
+}
+.snob2Skin span.mce_movebackward {
+	background-position: -280px -20px;
+}
+.snob2Skin span.mce_moveforward {
+	background-position: -300px -20px;
+}
+.snob2Skin span.mce_media {
+	background-position: -320px -20px;
+}
+.snob2Skin span.mce_nonbreaking {
+	background-position: -340px -20px;
+}
+.snob2Skin span.mce_pastetext {
+	background-position: -360px -20px;
+}
+.snob2Skin span.mce_pasteword {
+	background-position: -380px -20px;
+}
+.snob2Skin span.mce_selectall {
+	background-position: -400px -20px;
+}
+.snob2Skin span.mce_preview {
+	background-position: -420px -20px;
+}
+.snob2Skin span.mce_print {
+	background-position: -440px -20px;
+}
+.snob2Skin span.mce_cancel {
+	background-position: -460px -20px;
+}
+.snob2Skin span.mce_save {
+	background-position: -480px -20px;
+}
+.snob2Skin span.mce_replace {
+	background-position: -500px -20px;
+}
+.snob2Skin span.mce_search {
+	background-position: -520px -20px;
+}
+.snob2Skin span.mce_styleprops {
+	background-position: -560px -20px;
+}
+.snob2Skin span.mce_table {
+	background-position: -580px -20px;
+}
+.snob2Skin span.mce_cell_props {
+	background-position: -600px -20px;
+}
+.snob2Skin span.mce_delete_table {
+	background-position: -620px -20px;
+}
+.snob2Skin span.mce_delete_col {
+	background-position: -640px -20px;
+}
+.snob2Skin span.mce_delete_row {
+	background-position: -660px -20px;
+}
+.snob2Skin span.mce_col_after {
+	background-position: -680px -20px;
+}
+.snob2Skin span.mce_col_before {
+	background-position: -700px -20px;
+}
+.snob2Skin span.mce_row_after {
+	background-position: -720px -20px;
+}
+.snob2Skin span.mce_row_before {
+	background-position: -740px -20px;
+}
+.snob2Skin span.mce_merge_cells {
+	background-position: -760px -20px;
+}
+.snob2Skin span.mce_table_props {
+	background-position: -980px -20px;
+}
+.snob2Skin span.mce_row_props {
+	background-position: -780px -20px;
+}
+.snob2Skin span.mce_split_cells {
+	background-position: -800px -20px;
+}
+.snob2Skin span.mce_template {
+	background-position: -820px -20px;
+}
+.snob2Skin span.mce_visualchars {
+	background-position: -840px -20px;
+}
+.snob2Skin span.mce_abbr {
+	background-position: -860px -20px;
+}
+.snob2Skin span.mce_acronym {
+	background-position: -880px -20px;
+}
+.snob2Skin span.mce_attribs {
+	background-position: -900px -20px;
+}
+.snob2Skin span.mce_cite {
+	background-position: -920px -20px;
+}
+.snob2Skin span.mce_del {
+	background-position: -940px -20px;
+}
+.snob2Skin span.mce_ins {
+	background-position: -960px -20px;
+}
+.snob2Skin span.mce_pagebreak {
+	background-position: 0px -40px;
+}
+.snob2Skin .mce_spellchecker span.mceAction {
+	background-position: -540px -20px;
+}

@@ -1,0 +1,294 @@
+@media all and (min-width:770px)
+{
+.entryBody .poll.pollBig li {
+	width: 520px;
+}
+.text .poll.pollBig li {
+	width: 520px;
+}
+}
+.entryBody .poll.pollBig {
+	margin-bottom: 30px;
+}
+.text .poll.pollBig {
+	margin-bottom: 30px;
+}
+.entryBody .poll.pollLeft {
+	margin: 0px 22px 22px 0px; padding: 0px 4px 4px 0px; clear: left; border-right-color: rgb(208, 208, 208); border-bottom-color: rgb(208, 208, 208); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; float: left; position: relative; z-index: 999;
+}
+.text .poll.pollLeft {
+	margin: 0px 22px 22px 0px; padding: 0px 4px 4px 0px; clear: left; border-right-color: rgb(208, 208, 208); border-bottom-color: rgb(208, 208, 208); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; float: left; position: relative; z-index: 999;
+}
+.entryBody .poll.pollRight {
+	margin: 0px 0px 22px 22px; padding: 0px 0px 4px 4px; clear: right; border-bottom-color: rgb(208, 208, 208); border-left-color: rgb(208, 208, 208); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; float: right;
+}
+.text .poll.pollRight {
+	margin: 0px 0px 22px 22px; padding: 0px 0px 4px 4px; clear: right; border-bottom-color: rgb(208, 208, 208); border-left-color: rgb(208, 208, 208); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; float: right;
+}
+.entryBody .poll.top {
+	margin-top: 22px;
+}
+.text .poll.top {
+	margin-top: 22px;
+}
+.entryBody .poll fieldset {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.entryBody .poll ul {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.entryBody .poll li {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.entryBody .poll li input {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.text .poll fieldset {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.text .poll ul {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.text .poll li {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.text .poll li input {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.entryBody .poll fieldset {
+	width: 242px; border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.text .poll fieldset {
+	width: 242px; border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.entryBody .poll.pollBig fieldset {
+	border: currentColor; border-image: none; width: 520px;
+}
+.text .poll.pollBig fieldset {
+	border: currentColor; border-image: none; width: 520px;
+}
+.entryBody .poll.pollLeft fieldset {
+	padding: 0px 24px 20px 0px; border-right-color: rgb(235, 235, 235); border-right-width: 1px; border-right-style: solid;
+}
+.text .poll.pollLeft fieldset {
+	padding: 0px 24px 20px 0px; border-right-color: rgb(235, 235, 235); border-right-width: 1px; border-right-style: solid;
+}
+.entryBody .poll.pollRight fieldset {
+	padding: 0px 0px 20px 24px; border-left-color: rgb(235, 235, 235); border-left-width: 1px; border-left-style: solid;
+}
+.text .poll.pollRight fieldset {
+	padding: 0px 0px 20px 24px; border-left-color: rgb(235, 235, 235); border-left-width: 1px; border-left-style: solid;
+}
+.entryBody .poll h2 {
+	background: url("/i/new/polls/bg-pollTitle.png") no-repeat; height: 21px; line-height: 0; text-indent: -9999px; font-size: 0px; margin-bottom: 10px;
+}
+.text .poll h2 {
+	background: url("/i/new/polls/bg-pollTitle.png") no-repeat; height: 21px; line-height: 0; text-indent: -9999px; font-size: 0px; margin-bottom: 10px;
+}
+.entryBody .poll.result h2 {
+	background-position: 0px -21px;
+}
+.text .poll.result h2 {
+	background-position: 0px -21px;
+}
+body .h-layoutWide .entryBody .poll h3 {
+	color: rgb(51, 51, 51); line-height: 20px; font-family: Georgia; font-size: 16px; font-weight: normal; margin-bottom: 14px; display: block;
+}
+body .h-layoutWide .text .poll h3 {
+	color: rgb(51, 51, 51); line-height: 20px; font-family: Georgia; font-size: 16px; font-weight: normal; margin-bottom: 14px; display: block;
+}
+body .h-layoutWide .entryBody .poll ul {
+	padding: 7px 0px 0px; margin-bottom: 25px;
+}
+body .h-layoutWide .text .poll ul {
+	padding: 7px 0px 0px; margin-bottom: 25px;
+}
+body .h-layoutWide .entryBody .poll.result ul {
+	padding: 0px; overflow: hidden; margin-bottom: 16px;
+}
+body .h-layoutWide .text .poll.result ul {
+	padding: 0px; overflow: hidden; margin-bottom: 16px;
+}
+body .entryBody .poll ul li {
+	list-style: none; width: 242px; height: 18px; text-align: left; color: rgb(0, 0, 0); line-height: 18px; padding-left: 0px; font-size: 12px; position: relative;
+}
+body .text .poll ul li {
+	list-style: none; width: 242px; height: 18px; text-align: left; color: rgb(0, 0, 0); line-height: 18px; padding-left: 0px; font-size: 12px; position: relative;
+}
+.entryBody .poll.variants li {
+	height: auto; margin-bottom: 16px; background-color: transparent !important;
+}
+.text .poll.variants li {
+	height: auto; margin-bottom: 16px; background-color: transparent !important;
+}
+.entryBody .poll.result li {
+	background: url("/i/new/polls/bg-pollItem.png") repeat-x; height: 32px; overflow: hidden; margin-bottom: 2px;
+}
+.text .poll.result li {
+	background: url("/i/new/polls/bg-pollItem.png") repeat-x; height: 32px; overflow: hidden; margin-bottom: 2px;
+}
+.entryBody .poll.result li .filling {
+	background: url("/i/new/polls/bg-pollColors.png") repeat-x; left: 0px; top: 0px; width: 1px; height: 32px; display: block; position: absolute;
+}
+.text .poll.result li .filling {
+	background: url("/i/new/polls/bg-pollColors.png") repeat-x; left: 0px; top: 0px; width: 1px; height: 32px; display: block; position: absolute;
+}
+.entryBody .poll.result.yellow li .filling {
+	background-position: 0px -32px;
+}
+.text .poll.result.yellow li .filling {
+	background-position: 0px -32px;
+}
+.entryBody .poll.result.red li .filling {
+	background-position: 0px -64px;
+}
+.text .poll.result.red li .filling {
+	background-position: 0px -64px;
+}
+.entryBody .poll.result.gray li .filling {
+	background-position: 0px -96px;
+}
+.text .poll.result.gray li .filling {
+	background-position: 0px -96px;
+}
+.entryBody .poll li input {
+	top: 2px; margin-right: 7px; position: relative;
+}
+.text .poll li input {
+	top: 2px; margin-right: 7px; position: relative;
+}
+body.opera .entryBody .poll li input {
+	top: 0px;
+}
+body.opera .text .poll li input {
+	top: 0px;
+}
+.entryBody .poll.result li label {
+	width: 210px; height: 32px; line-height: 32px; overflow: hidden; margin-left: 10px; float: left; position: relative;
+}
+.text .poll.result li label {
+	width: 210px; height: 32px; line-height: 32px; overflow: hidden; margin-left: 10px; float: left; position: relative;
+}
+.entryBody .poll.result.pollBig li label {
+	width: 480px;
+}
+.text .poll.result.pollBig li label {
+	width: 480px;
+}
+.entryBody .poll.result li .count {
+	right: 8px; color: rgb(161, 161, 161); line-height: 32px; font-size: 13px; position: absolute;
+}
+.text .poll.result li .count {
+	right: 8px; color: rgb(161, 161, 161); line-height: 32px; font-size: 13px; position: absolute;
+}
+.entryBody .poll.result li.myVote .count {
+	color: rgb(0, 0, 0); font-weight: bold;
+}
+.text .poll.result li.myVote .count {
+	color: rgb(0, 0, 0); font-weight: bold;
+}
+.entryBody .poll .buttonsBlock {
+	line-height: 23px; overflow: hidden; margin-right: -24px; position: relative;
+}
+.text .poll .buttonsBlock {
+	line-height: 23px; overflow: hidden; margin-right: -24px; position: relative;
+}
+.entryBody .poll .button {
+	padding-left: 1px; margin-right: 12px;
+}
+.text .poll .button {
+	padding-left: 1px; margin-right: 12px;
+}
+.entryBody .poll .button {
+	background: url("/i/new/profile/bg-button2.png") no-repeat -299px 0px; height: 22px; color: rgb(8, 51, 95); padding-left: 1px; float: left; display: block; cursor: pointer;
+}
+.entryBody .poll .button span {
+	background: url("/i/new/profile/bg-button2.png") no-repeat -299px 0px; height: 22px; color: rgb(8, 51, 95); padding-left: 1px; float: left; display: block; cursor: pointer;
+}
+.text .poll .button {
+	background: url("/i/new/profile/bg-button2.png") no-repeat -299px 0px; height: 22px; color: rgb(8, 51, 95); padding-left: 1px; float: left; display: block; cursor: pointer;
+}
+.text .poll .button span {
+	background: url("/i/new/profile/bg-button2.png") no-repeat -299px 0px; height: 22px; color: rgb(8, 51, 95); padding-left: 1px; float: left; display: block; cursor: pointer;
+}
+.entryBody .poll .button.blueButton {
+	background-position: -299px -22px;
+}
+.text .poll .button.blueButton {
+	background-position: -299px -22px;
+}
+.entryBody .poll .button span {
+	background-position: 100% 0px; padding: 0px 20px; color: rgb(8, 51, 95); line-height: 21px; font-size: 12px; float: left;
+}
+.text .poll .button span {
+	background-position: 100% 0px; padding: 0px 20px; color: rgb(8, 51, 95); line-height: 21px; font-size: 12px; float: left;
+}
+.entryBody .poll .button.blueButton span {
+	background-position: 100% -22px; color: rgb(255, 255, 255); font-weight: bold;
+}
+.text .poll .button.blueButton span {
+	background-position: 100% -22px; color: rgb(255, 255, 255); font-weight: bold;
+}
+.entryBody .poll .showResult {
+	color: rgb(8, 51, 95); font-size: 11px; font-weight: normal; float: left; white-space: nowrap; cursor: pointer;
+}
+.text .poll .showResult {
+	color: rgb(8, 51, 95); font-size: 11px; font-weight: normal; float: left; white-space: nowrap; cursor: pointer;
+}
+.entryBody .poll .allVotes {
+	text-align: right; color: rgb(172, 172, 172); padding-right: 7px; font-size: 11px;
+}
+.text .poll .allVotes {
+	text-align: right; color: rgb(172, 172, 172); padding-right: 7px; font-size: 11px;
+}
+.entryBody .poll.variants li .filling {
+	display: none;
+}
+.entryBody .poll.variants li .count {
+	display: none;
+}
+.entryBody .poll.variants .pollIconRes {
+	display: none;
+}
+.entryBody .poll.variants .showResult span.hide {
+	display: none;
+}
+.entryBody .poll.result li input {
+	display: none;
+}
+.entryBody .poll.result .button {
+	display: none;
+}
+.entryBody .poll.result .pollIcon {
+	display: none;
+}
+.entryBody .poll.result .showResult span.show {
+	display: none;
+}
+.text .poll.variants li .filling {
+	display: none;
+}
+.text .poll.variants li .count {
+	display: none;
+}
+.text .poll.variants .pollIconRes {
+	display: none;
+}
+.text .poll.variants .showResult span.hide {
+	display: none;
+}
+.text .poll.result li input {
+	display: none;
+}
+.text .poll.result .button {
+	display: none;
+}
+.text .poll.result .pollIcon {
+	display: none;
+}
+.text .poll.result .showResult span.show {
+	display: none;
+}
+.thnx {
+	margin-bottom: 30px;
+}

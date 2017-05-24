@@ -1,0 +1,45 @@
+body.blog_3074 {
+	background: black;
+}
+body.blog_3074 .content.right {
+	display: none;
+}
+body.blog_3074 .qart-p-c-a {
+	width: 260px; height: 1000px; margin-left: 740px; position: fixed; z-index: 101; cursor: pointer;
+}
+body.blog_3074 .p-c-a {
+	top: 0px; width: 100%; height: 1080px; display: block; position: fixed; z-index: 97; cursor: pointer;
+}
+body.blog_3074.q-art-1 .p-c-a {
+	background: url("/i/promotion/kia_quoris/kia_quoris_new.jpg") fixed no-repeat 50% 140px rgb(0, 0, 0);
+}
+body.blog_3074.q-art-5 .p-c-a {
+	background: url("/i/promotion/kia_quoris/kia_quoris6.jpg") fixed no-repeat 50% 140px rgb(0, 0, 0);
+}
+body.blog_3074 .mainLayout .content {
+	background: white;
+}
+body.blog_3074 .storageTitle h1 {
+	margin: 16px 0px 5px;
+}
+body.blog_3074 .partnersNews {
+	background: white;
+}
+body.blog_3074 .partnersNews div.item.first {
+	margin: 0px 0px 0px 5px;
+}
+body.blog_3074 .go-to-blog-right {
+	margin-right: 30px;
+}
+.q-art-1 .q-kiaMark {
+	display: none;
+}
+.q-art-1 .q-kiaLine {
+	display: none;
+}
+body.blog_3074 .q-kiaLine {
+	background: rgb(255, 255, 255); width: 100%; height: 58px; bottom: 0px; display: none; position: fixed; z-index: 98; cursor: pointer;
+}
+body.blog_3074 .q-kiaMark {
+	background: url("/i/promotion/kia/kia_line.png") no-repeat; margin: -32px 0px 0px 485px; left: 50%; width: 133px; height: 90px; position: absolute; cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.entryLinkContainer {
+	padding-top: 20px; border-top-color: rgb(168, 168, 168); border-top-width: 1px; border-top-style: dotted;
+}
+.prevEntryLinkContainer {
+	width: 134px; height: 30px; margin-right: 100px; float: left;
+}
+a.prevEntryLink {
+	height: 30px; color: rgb(39, 70, 113); padding-top: 3px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; margin-bottom: 40px; float: left; display: block; background-repeat: no-repeat;
+}
+a.nextEntryLink {
+	height: 30px; color: rgb(39, 70, 113); padding-top: 3px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; margin-bottom: 40px; float: left; display: block; background-repeat: no-repeat;
+}
+.entryLink {
+	height: 30px; color: rgb(39, 70, 113); padding-top: 3px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; margin-bottom: 40px; float: left; display: block; background-repeat: no-repeat;
+}
+a.prevEntryLink {
+	padding-left: 35px; background-image: url("/i/new/magazine/i-controls-next.png");
+}
+a.nextEntryLink {
+	background-position: right top; padding-right: 35px; margin-left: 93px; background-image: url("/i/new/magazine/i-controls-prev.png");
+}
+.stuff a.nextEntryLink {
+	margin-left: 68px;
+}
+.stuff .prevEntryLinkContainer {
+	margin-right: 90px;
+}
